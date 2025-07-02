@@ -1,0 +1,105 @@
+<!DOCTYPE html>
+<html lang="pl">
+<head>
+    <meta charset="UTF-8" />
+    <title>Lista produktów</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='css/styles.css') }}" />
+      <link rel="stylesheet" href="{{ url_for('static', filename='css/dark_mode.css') }}" />
+
+    <style>
+      table { border-collapse: collapse; width: 100%; }
+      th, td { border: 1px solid #ccc; padding: 8px; }
+      th { background: #eee; }
+      .flashes li.success { color: green; }
+      .flashes li.error { color: red; }
+      form.inline { display: inline; }
+    </style>
+</head>
+<body>
+  <button id="darkModeToggle">Tryb ciemny</button>
+
+
+<h1>Lista produktów</h1>
+
+{% with messages = get_flashed_messages(with_categories=true) %}
+  {% if messages %}
+    <ul class="flashes">
+      {% for category, message in messages %}
+        <li class="{{ category }}">{{ message }}</li>
+      {% endfor %}
+    </ul>
+  {% endif %}
+{% endwith %}
+
+<h2>Dodaj nowy produkt</h2>
+<form action="{{ url_for('add_product') }}" method="post">
+  <label for="name">Nazwa produktu:</label><br/>
+  <input type="text" id="name" name="name" required><br/>
+
+  <label for="url">URL produktu:</label><br/>
+  <input type="url" id="url" name="url" required><br/>
+
+  <label for="store">Sklep:</label><br/>
+  <select id="store" name="store" required>
+    <option value="" disabled selected>Wybierz sklep</option>
+    {% for store in stores %}
+      <option value="{{ store }}">{{ store }}</option>
+    {% endfor %}
+  </select><br/>
+
+  <label for="target_price">Cena docelowa (opcjonalnie):</label><br/>
+  <input type="text" id="target_price" name="target_price" pattern="^\d+([.,]\d{1,2})?$" placeholder="np. 99.99 lub 99,99"><br/>
+
+  <button type="submit">Dodaj produkt</button>
+</form>
+
+<hr/>
+
+<table>
+  <thead>
+    <tr>
+      <th>Nazwa</th>
+      <th>Dostępność</th>
+      <th>Aktualna cena</th>
+      <th>Link</th>
+      <th>Cena docelowa</th>
+      <th>Usuń</th>
+    </tr>
+  </thead>
+  <tbody>
+  {% for p in products %}
+    {% set info = notified.get(p.name) %}
+    <tr>
+      <td>{{ p.name }}</td>
+      <td>
+        {% if info and info['available'] %}
+          Dostępny
+        {% elif info %}
+          Niedostępny
+        {% else %}
+          Brak danych
+        {% endif %}
+      </td>
+      <td>{{ info['price'] if info else "Brak danych" }}</td>
+      <td><a href="{{ p.url }}" target="_blank" rel="noopener">Link</a></td>
+      <td>
+        <form action="{{ url_for('update_target_price_inline') }}" method="post" class="inline">
+          <input type="hidden" name="product_name" value="{{ p.name }}">
+          <input type="text" name="target_price" value="{{ p.target_price if p.target_price is not none else '' }}" pattern="^\d+([.,]\d{1,2})?$" style="width: 80px;">
+          <button type="submit">Zapisz</button>
+        </form>
+      </td>
+      <td>
+        <form action="{{ url_for('delete_product', product_name=p.name) }}" method="post" class="inline" onsubmit="return confirm('Na pewno chcesz usunąć produkt {{ p.name }}?');">
+          <button type="submit" style="color:red;">Usuń</button>
+        </form>
+      </td>
+    </tr>
+  {% else %}
+    <tr><td colspan="6">Brak produktów do wyświetlenia.</td></tr>
+  {% endfor %}
+  </tbody>
+</table>
+<script src="{{ url_for('static', filename='js/dark_mode.js') }}"></script>
+</body>
+</html>

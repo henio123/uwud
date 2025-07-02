@@ -1,0 +1,76 @@
+body {
+  background-color: #f5f5f5;
+  color: #222;
+  font-family: Arial, sans-serif;
+}
+table {
+  border-collapse: collapse;
+  width: 100%;
+}
+th, td {
+  border: 1px solid #ccc;
+  padding: 8px;
+}
+th {
+  background: #eee;
+}
+.flashes li.success {
+  color: green;
+}
+.flashes li.error {
+  color: red;
+}
+form.inline {
+  display: inline;
+}
+
+/* Tryb ciemny */
+body.dark-mode {
+  background-color: #121212;
+  color: #e0e0e0;
+}
+body.dark-mode table {
+  border-color: #444;
+}
+body.dark-mode th, body.dark-mode td {
+  border-color: #444;
+}
+body.dark-mode th {
+  background: #333;
+}
+body.dark-mode a {
+  color: #90caf9;
+}
+body.dark-mode .flashes li.success {
+  color: #a5d6a7;
+}
+body.dark-mode .flashes li.error {
+  color: #ef9a9a;
+}
+body.dark-mode button {
+  background-color: #333;
+  color: #e0e0e0;
+  border: 1px solid #555;
+}
+body.dark-mode input, body.dark-mode select {
+  background-color: #222;
+  color: #e0e0e0;
+  border: 1px solid #555;
+}
+
+/* Przycisk trybu ciemnego */
+#darkModeToggle {
+  position: fixed;
+  top: 10px;
+  right: 10px;
+  background-color: #ddd;
+  border: none;
+  padding: 8px 12px;
+  cursor: pointer;
+  border-radius: 4px;
+  font-weight: bold;
+}
+body.dark-mode #darkModeToggle {
+  background-color: #444;
+  color: #e0e0e0;
+}
