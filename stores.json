@@ -1,0 +1,296 @@
+[
+  {
+    "name": "juniorkurczak",
+    "url": "https://juniorkurczak.pl/products/pokemon-releases",
+    "product_selector": "div.grid-product",
+    "title_selector": "a.grid-product__title > div",
+    "link_selector": "a.grid-product__title",
+    "base_url": "https://juniorkurczak.pl",
+    "requests": true
+  },
+  {
+    "name": "juniorkurczak",
+    "url": "https://juniorkurczak.pl/products/sv10-destined-rivals",
+    "product_selector": "div.grid-product",
+    "title_selector": "a.grid-product__title > div",
+    "link_selector": "a.grid-product__title",
+    "base_url": "https://juniorkurczak.pl",
+    "requests": true
+  },
+  {
+    "name": "battlestash",
+    "url": "https://battlestash.pl/kategoria/gry-karciane/pokemon-tcg/?orderby=date",
+    "product_selector": "div.product-small",
+    "title_selector": "div.box-text .product-title > a",
+    "link_selector": "div.box-text .product-title > a",
+    "base_url": "https://battlestash.pl",
+    "requests": true
+  },
+  {
+    "name": "battlestash",
+    "url": "https://battlestash.pl/kategoria/gry-karciane/pokemon-tcg/page/2/?orderby=date",
+    "product_selector": "div.product-small",
+    "title_selector": "div.box-text .product-title > a",
+    "link_selector": "div.box-text .product-title > a",
+    "base_url": "https://battlestash.pl",
+    "requests": true
+  },
+  {
+    "name": "basanti",
+    "url": "https://gryplanszowe-basanti.pl/pl/212-pokemon",
+    "product_selector": "div.item-product-list > div",
+    "title_selector": "div.item-product-list > div:nth-child(1) > div:nth-child(2) > div:nth-child(1) > div:nth-child(1) > a:nth-child(1)",
+    "price_selector": "div.item-product-list > div:nth-child(1) > div:nth-child(2) > div:nth-child(1) > div:nth-child(1) > a:nth-child(1)",
+    "requests": true
+  },
+  {
+    "name": "boosterpoint",
+    "url": "https://boosterpoint.pl/nowosc/",
+    "product_selector": "ul.products li.product",
+    "title_selector": "h2.woocommerce-loop-product__title",
+    "price_selector": "span.woocommerce-Price-amount",
+    "requests": true
+  },
+  {
+    "name": "boosterpoint",
+    "url": "https://boosterpoint.pl/nowosc/page/2/",
+    "product_selector": "ul.products li.product",
+    "title_selector": "h2.woocommerce-loop-product__title",
+    "price_selector": "span.woocommerce-Price-amount",
+    "requests": true
+  },
+  {
+    "name": "boosterpoint",
+    "url": "https://boosterpoint.pl/preorder/",
+    "product_selector": "ul.products li.product",
+    "title_selector": "h2.woocommerce-loop-product__title",
+    "price_selector": "span.woocommerce-Price-amount",
+    "requests": true
+  },
+  {
+    "name": "centrum-mtg",
+    "url": "https://www.centrum-mtg.com.pl/pokemon",
+    "product_selector": "div.c-product-box.js-product-box",
+    "title_selector": "h3.c-product-box__title",
+    "link_selector": "a",
+    "base_url": "https://www.centrum-mtg.com.pl",
+    "requests": true
+  },
+  {
+    "name": "dragoneye",
+    "url": "https://dragoneye.pl/pokemon-tcg-c-16_261.html?sort=3d&page=1",
+    "product_selector": ".listing > div",
+    "title_selector": "p > a",
+    "link_selector": "p > a",
+    "price_selector": ".price",
+    "base_url": "https://dragoneye.pl",
+    "requests": true
+  },
+  {
+    "name": "flamberg",
+    "url": "https://flamberg.com.pl/pl/menu/pokemon-687",
+    "product_selector": "div.col-sm-4",
+    "title_selector": "div.col-sm-4 > h3:nth-child(2) > a:nth-child(1)",
+    "link_selector": "div.col-sm-4 > h3:nth-child(2) > a:nth-child(1)",
+    "price_selector": ".product-price__current",
+    "base_url": "https://flamberg.com.pl",
+    "use_headful": true,
+    "requests": true
+  },
+  {
+    "name": "loficards",
+    "url": "https://loficards.pl/Preorder",
+    "product_selector": "div.col-md-4",
+    "title_selector": "div.col-md-4 > figure:nth-child(1) > div:nth-child(2) > div:nth-child(1) > a:nth-child(1) > span:nth-child(1)",
+    "link_selector": "div.col-md-4 > figure:nth-child(1) > div:nth-child(2) > div:nth-child(1) > a:nth-child(1)",
+    "price_selector": ".product__price, .product-price__current, .price",
+    "base_url": "https://loficards.pl",
+    "use_headful": true,
+    "requests": true
+  },
+  {
+    "name": "strefa_tcg",
+    "url": "https://strefa-tcg.pl/pl/c/zestawy-kolekcjonerskie/46",
+    "base_url": "https://strefa-tcg.pl",
+    "product_selector": "div.product",
+    "title_selector": "span.productname",
+    "link_selector": "a",
+    "requests": true
+  },
+ {
+  "name": "swiatkart",
+  "url": "https://swiatkart.com.pl/pl/c/PREORDER/85",
+  "base_url": "https://swiatkart.com.pl",
+  "product_selector": "div",
+  "title_selector": "div > div:nth-child(1) > product-link:nth-child(3) > a:nth-child(1) > h2:nth-child(1)",
+  "link_selector": "div > div:nth-child(1) > product-link:nth-child(3) > a:nth-child(1)",
+  "requests": true
+},
+ {
+    "name": "loficards",
+    "url": "https://loficards.pl/Preorder/pa/2",
+    "product_selector": "div.col-md-4",
+    "title_selector": "div.col-md-4 > figure:nth-child(1) > div:nth-child(2) > div:nth-child(1) > a:nth-child(1) > span:nth-child(1)",
+    "link_selector": "div.col-md-4 > figure:nth-child(1) > div:nth-child(2) > div:nth-child(1) > a:nth-child(1)",
+    "price_selector": ".product__price, .product-price__current, .price",
+    "base_url": "https://loficards.pl",
+    "use_headful": true,
+    "requests": true
+  },
+   {
+    "name": "loficards",
+    "url": "https://loficards.pl/Preorder/pa/3",
+    "product_selector": "div.col-md-4",
+    "title_selector": "div.col-md-4 > figure:nth-child(1) > div:nth-child(2) > div:nth-child(1) > a:nth-child(1) > span:nth-child(1)",
+    "link_selector": "div.col-md-4 > figure:nth-child(1) > div:nth-child(2) > div:nth-child(1) > a:nth-child(1)",
+    "price_selector": ".product__price, .product-price__current, .price",
+    "base_url": "https://loficards.pl",
+    "use_headful": true,
+    "requests": true
+  },
+  {
+  "name": "LootQuest",
+  "url": "https://lootquest.pl/tag-produktu/pokemon-tcg-preorder/",
+  "product_selector": "ul.products li.product",
+  "title_selector": "h2.woocommerce-loop-product__title",
+  "link_selector": "a.woocommerce-LoopProduct-link",
+  "base_url": "https://lootquest.pl",
+      "requests": true
+},
+{
+  "name": "LootQuest",
+  "url": "https://lootquest.pl/tag-produktu/destined-rivals/",
+  "product_selector": "ul.products li.product",
+  "title_selector": "h2.woocommerce-loop-product__title",
+  "link_selector": "a.woocommerce-LoopProduct-link",
+  "base_url": "https://lootquest.pl",
+      "requests": true
+},
+{
+  "name": "MyCards",
+  "url": ["https://mycards.pl/pl/c/Pokemon-TCG/1",
+          "https://mycards.pl/pl/c/Pokemon-TCG/2",
+          "https://mycards.pl/pl/c/Pokemon-TCG/3"],
+  "product_selector": "product-tile.product-tile",
+  "title_selector": "h3.product-tile__name",
+  "link_selector": "product-link > a",
+  "base_url": "https://mycards.pl",
+   "requests": true
+},
+{
+  "name": "Poke-Collectibles",
+  "url": ["https://poke-collectibles.shop/product-category/preordery/",
+          "https://poke-collectibles.shop/product-category/pokemon/booster-boxy/",
+          "https://poke-collectibles.shop/product-category/pokemon/elite-trainer-boxy/",
+          "https://poke-collectibles.shop/product-category/pokemon/boostery/",
+          "https://poke-collectibles.shop/product-category/pokemon/premium-boxy/"],
+  "product_selector": "ul.products li.product",
+  "title_selector": "li.entry > div:nth-child(1) > ul:nth-child(1) > ul:nth-child(2) > li:nth-child(2) > h2:nth-child(1) > a:nth-child(1)",
+  "link_selector": "li.entry > div:nth-child(1) > ul:nth-child(1) > ul:nth-child(2) > li:nth-child(2) > h2:nth-child(1) > a:nth-child(1)",
+  "base_url": "https://poke-collectibles.shop",
+   "requests": true
+},
+{
+  "name": "Poke-Collectibles",
+  "url": ["https://pokecollect.pl/pl/c/Destined-Rivals/69",
+   "https://pokecollect.pl/pl/c/Black-Bolt-White-Flare/70",
+   "https://pokecollect.pl/pl/c/151/51"],
+  "product_selector": "div.product_view-extended:nth-child(1)",
+  "title_selector": "div.product_view-extended:nth-child(1) > div:nth-child(1) > a:nth-child(2)",
+  "link_selector": "div.product_view-extended:nth-child(1) > div:nth-child(1) > a:nth-child(2)",
+  "base_url": "https://poke-collectibles.shop",
+   "requests": true
+},
+{
+  "name": "Pokeshop",
+  "url": ["https://pokeshop.pl/black-bolt-white-flare-c-10_78_139.html",
+  "https://pokeshop.pl/151-c-10_78_96.html",
+  "https://pokeshop.pl/destined-rivals-c-10_78_138.html"],
+  "base_url": "https://pokeshop.pl",
+  "product_selector": "div.Listing .OknoRwd",
+  "title_selector": "h3 > a",
+  "link_selector": "h3 > a",
+  "requests": false
+},
+{
+  "name": "poketrader",
+  "url": ["https://poketrader.eu/scarlet-violet-151-c-16_19_71.html",
+  "https://poketrader.eu/black-bolt-white-flare-c-189.html",
+  "https://poketrader.eu/destined-rivals-c-187.html"],
+  "base_url": "https://poketrader.eu/",
+  "product_selector": "div > div:nth-child(3) > h3:nth-child(1)",
+  "title_selector": "div > div:nth-child(3) > h3:nth-child(1) > a:nth-child(1)",
+  "link_selector": "div > div:nth-child(3) > h3:nth-child(1) > a:nth-child(1)",
+  "requests": true  
+},
+{
+  "name": "Redraft",
+  "url": "https://redraft.pl/pl/c/Pokemon-TCG/26",
+  "base_url": "https://redraft.pl",
+  "product_selector": "div.product-item > a:nth-child(1)",
+  "title_selector": "div.product-item > a:nth-child(1) > h3:nth-child(2) > span:nth-child(1)",
+  "link_selector": "self",
+  "requests": true  
+},
+{
+  "name": "strefakart",
+  "url": ["https://strefakart.pl/product-category/preorder/?product-cat=wszystkie-dodatki",
+  "https://strefakart.pl/product-category/wszystkie-dodatki/",
+  "https://strefakart.pl/product-category/wszystkie-dodatki/page/2/",
+  "https://strefakart.pl/product-category/wszystkie-dodatki/page/3/"],
+  "base_url": "https://strefakart.pl",
+   "product_selector": "ul.products li.product",
+  "title_selector": "h2.woocommerce-loop-product__title",
+  "link_selector": "a.woocommerce-LoopProduct-link",
+  "requests": true  
+},
+{
+  "name": "strefamarzen",
+   "url": ["https://strefamarzen.pl/en/menu/zestawy-kolekcjonerskie-376",
+  "https://strefamarzen.pl/en/menu/zestawy-startowe-374",
+  "https://strefamarzen.pl/en/menu/boostery-375",
+  "https://strefamarzen.pl/en/newproducts/new?newproducts=y"],
+  "base_url": "https://strefamarzen.pl",
+   "product_selector": "#search > div",
+  "title_selector": "#search > div > div > h2:nth-child(1) > a:nth-child(1)",
+  "link_selector": "#search > div > div > h2:nth-child(1) > a:nth-child(1)",
+  "requests": true  
+},
+{
+  "name": "StrefaMTG Boostery i Boxy Pokemon",
+"url": ["https://strefamtg.pl/2837-boostery-i-boxy-pokemon",
+  "https://strefamtg.pl/2838-talie-i-zestawy-kart-pokemon",
+  "https://strefamtg.pl/2008-pokemon",
+  "https://strefamtg.pl/2008-pokemon?page=2"],
+  "base_url": "https://strefamtg.pl",
+  "product_selector": "article.col-xl-3 > div:nth-child(1)",
+  "title_selector": "article.product-miniature > div:nth-child(1) > div:nth-child(4) > h2:nth-child(2) > a:nth-child(1)",
+  "link_selector": "article.product-miniature > div:nth-child(1) > div:nth-child(4) > h2:nth-child(2) > a:nth-child(1)",
+  "requests": true  
+},
+{
+  "name": "tcglove",
+"url": ["https://www.tcglove.pl/pokemon-tcg/1/default/11",
+  "https://www.tcglove.pl/blackbolt-whiteflare",
+  "https://www.tcglove.pl/SV10",
+  "https://www.tcglove.pl/151"],
+   "base_url": "https://www.tcglove.pl",
+  "product_selector": ".product-tile",
+ "title_selector": ".product-tile__name_fixed-height",
+  "link_selector": "a.link_no-underline",
+  "requests":true
+},
+{
+  "name": "wilczek",
+  "url": ["https://wilczek.poznan.pl/category/nowa-kategoria/1/long/created_at/desc/0",
+  "https://wilczek.poznan.pl/category/pokemon-booster",
+  "https://wilczek.poznan.pl/category/pokemon-booster-bundle",
+  "https://wilczek.poznan.pl/category/pokemon-boostery"],
+  "base_url": "https://wilczek.poznan.pl",
+  "product_selector": "#full-list > div",
+  "title_selector": "div.thumbnail > div:nth-child(4) > div:nth-child(1) > p:nth-child(1) > a:nth-child(1)",
+  "link_selector": "div.thumbnail > div:nth-child(4) > div:nth-child(1) > p:nth-child(1) > a:nth-child(1)",  
+  "requests": true
+}
+]
+
