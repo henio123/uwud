@@ -1,105 +1,1247 @@
 [
   {
-    "name": "White Flare Elite Trainer Box",
-    "url": "https://juniorkurczak.pl/products/white-flare-elite-trainer-box",
-    "store": "juniorkurczak"
-  },
-  {
     "name": "Black Bolt Elite Trainer Box",
     "url": "https://juniorkurczak.pl/products/black-bolt-elite-trainer-box",
-    "store": "juniorkurczak"
-  },
-  {
-    "name": "Marnie Rival Battle Deck",
-    "url": "https://juniorkurczak.pl/products/marnie-rival-battle-deck",
-    "store": "juniorkurczak"
-  },
-  {
-    "name": "White Flare Black Bolt Unova Victini",
-    "url": "https://juniorkurczak.pl/products/white-flare-black-bolt-unova-victini-illustration-collection",
     "store": "juniorkurczak",
-    "target_price": null
+    "product_id": "black bolt elite trainer box",
+    "target_price": 230.0
   },
   {
-    "name": "Destined Rivals Elite Trainer Box",
-    "url": "https://juniorkurczak.pl/products/destined-rivals-elite-trainer-box",
+    "name": "Pokémon TCG: Scarlet & Violet - 151 - Booster",
+    "url": "https://mycards.pl/pl/p/Pokemon-TCG-Scarlet-Violet-151-Booster-/209",
+    "store": "mycards",
+    "product_id": "151 booster",
+    "target_price": 40.0
+  },
+  {
+    "name": "Pokémon TCG: Scarlet & Violet - White Flare & Black Bolt - Unova Poster Collection (PREORDER)",
+    "url": "https://loficards.pl/Pokemon-TCG-Scarlet-Violet-White-Flare-Black-Bolt-Unova-Poster-Collection",
+    "store": "loficards",
+    "product_id": "white flare black bolt poster collection",
+    "target_price": 85.0
+  },
+  {
+    "name": "Pokémon TCG: Scarlet & Violet Destined Rivals Booster Pack Sleeved ART SET (4 boostery)",
+    "url": "https://mycards.pl/pl/p/Pokemon-TCG-Scarlet-Violet-Destined-Rivals-Booster-Pack-Sleeved-ART-SET-4-boostery/202",
+    "store": "mycards",
+    "product_id": "destined rivals booster",
+    "target_price": 20.0
+  },
+  {
+    "name": "White Flare Binder Collection",
+    "url": "https://juniorkurczak.pl/products/white-flare-binder-collection",
     "store": "juniorkurczak",
-    "target_price": null
+    "product_id": "white flare binder",
+    "target_price": 120.0
   },
   {
-    "name": "White Flare Elite Trainer Box - strefa-tcg",
-    "url": "https://strefa-tcg.pl/pl/p/Pokemon-TCG-Scarlet-Violet-White-Flare-Elite-Trainer-Box/1263",
-    "store": "strefa_tcg",
-    "target_price": 240
-  },
-  {
-    "name": "scarlet-violet-151-booster-bundle",
-    "url": "https://juniorkurczak.pl/products/scarlet-violet-151-booster-bundle",
+    "name": "Black Bolt Binder Collection",
+    "url": "https://juniorkurczak.pl/products/black-bolt-binder-collection",
     "store": "juniorkurczak",
-    "target_price": null
+    "product_id": "black bolt binder",
+    "target_price": 120.0
   },
   {
-    "name": "scarlegt-violet-151-booster-bundle",
-    "url": "https://juniorkurczak.pl/products/scarlet-violet-151-booster-bundle",
-    "store": "juniorkurczak",
-    "target_price": 54.0
+    "name": "Pokémon TCG: Black Bolt - Booster Bundle",
+    "url": "https://loficards.pl/Pokemon-TCG-Black-Bolt-Booster-Bundle-PREORDER-p3179",
+    "store": "loficards",
+    "product_id": "black bolt booster bundle",
+    "target_price": 120.0
   },
   {
     "name": "Pokemon TCG White Flare Booster Bundle (Preorder)",
     "url": "https://loficards.pl/Pokemon-TCG-White-Flare-Booster-Bundle-PREORDER-p3180",
     "store": "loficards",
-    "target_price": 279.0
+    "product_id": "white flare booster bundle",
+    "target_price": 120.0
   },
   {
-    "name": "Pokémon TCG: White Flare - Elite Trainer Box",
-    "url": "https://loficards.pl/Pokemon-TCG-Black-Bolt-White-Flare-Elite-Trainer-Box",
-    "store": "loficards",
-    "target_price": 240.0
+    "name": "scarlet-violet-151-booster-bundle",
+    "url": "https://juniorkurczak.pl/products/scarlet-violet-151-booster-bundle",
+    "store": "juniorkurczak",
+    "target_price": 250.0,
+    "product_id": "151 booster bundle"
   },
   {
-    "name": "Pokémon TCG: Black Bolt - Elite Trainer Box",
-    "url": "https://loficards.pl/Pokemon-TCG-Black-Bolt-Elite-Trainer-Box",
-    "store": "loficards",
-    "target_price": 240.0
+    "name": "White Flare Elite Trainer Box - strefa-tcg",
+    "url": "https://strefa-tcg.pl/pl/p/Pokemon-TCG-Scarlet-Violet-White-Flare-Elite-Trainer-Box/1263",
+    "store": "strefa_tcg",
+    "target_price": 240.0,
+    "product_id": "white flare elite trainer box"
   },
   {
-    "name": "Pokémon TCG: Black Bolt - Booster Bundle",
-    "url": "https://loficards.pl/Pokemon-TCG-Black-Bolt-Booster-Bundle-PREORDER-p3179",
-    "store": "loficards"
+    "name": "Pokémon TCG Destined Rivals Elite Trainer Box",
+    "url": "https://battlestash.pl/produkt/pokemon-tcg-destined-rivals-elite-trainer-box/",
+    "store": "battlestash",
+    "product_id": "destined rivals elite trainer box",
+    "target_price": 250.0
   },
   {
-    "name": "Pokémon TCG: White Flare - Booster Bundle",
-    "url": "https://loficards.pl/Pokemon-TCG-White-Flare-Booster-Bundle-PREORDER-p3180",
-    "store": "loficards"
+    "name": "White Flare Black Bolt Unova Victini",
+    "url": "https://juniorkurczak.pl/products/white-flare-black-bolt-unova-victini-illustration-collection",
+    "store": "juniorkurczak",
+    "target_price": 90.0,
+    "product_id": "victini box"
   },
   {
-    "name": "Pokemon TCG Scarlet Violet White Flare Elite Trainer Box Reshiram",
+    "name": "White Flare Elite Trainer Box",
+    "url": "https://juniorkurczak.pl/products/white-flare-elite-trainer-box",
+    "store": "juniorkurczak",
+    "product_id": "white flare elite trainer box"
+  },
+  {
+    "name": "Destined Rivals - Booster",
+    "url": "https://juniorkurczak.pl/products/destined-rivals-booster",
+    "store": "juniorkurczak",
+    "product_id": "destined rivals booster",
+    "target_price": 20.0
+  },
+  {
+    "name": "White Flare Booster Bundle",
+    "url": "https://juniorkurczak.pl/products/white-flare-booster-bundle",
+    "store": "juniorkurczak",
+    "product_id": "white flare booster bundle"
+  },
+  {
+    "name": "Black Bolt Booster Bundle",
+    "url": "https://juniorkurczak.pl/products/black-bolt-booster-bundle",
+    "store": "juniorkurczak",
+    "product_id": "black bolt booster bundle",
+    "target_price": 120.0
+  },
+  {
+    "name": "Destined Rivals - Elite Trainer Box",
+    "url": "https://juniorkurczak.pl/products/destined-rivals-elite-trainer-box",
+    "store": "juniorkurczak",
+    "product_id": "destined rivals elite trainer box"
+  },
+  {
+    "name": "Pokémon TCG: Scarlet and Violet 151 Booster Bundle",
+    "url": "https://battlestash.pl/produkt/pokemon-tcg-scarlet-and-violet-151-booster-bundle/",
+    "store": "battlestash",
+    "product_id": "151 booster bundle",
+    "target_price": 250.0
+  },
+  {
+    "name": "Pokemon TCG: Scarlet & Violet – Black Bolt & White Flare – Binder Collection – Zekrom",
+    "url": "https://boosterpoint.pl/produkt/pokemon-tcg-scarlet-violet-black-bolt-white-flare-binder-collection-zekrom/",
+    "store": "boosterpoint",
+    "product_id": "white flare binder",
+    "target_price": 120.0
+  },
+  {
+    "name": "Pokémon TCG: Scarlet & Violet – White Flare – Elite Trainer Box – Reshiram",
     "url": "https://boosterpoint.pl/produkt/pokemon-tcg-scarlet-violet-white-flare-elite-trainer-box-reshiram/",
-    "store": "boosterpoint"
+    "store": "boosterpoint",
+    "product_id": "white flare elite trainer box"
   },
   {
     "name": "Pokémon TCG: Scarlet & Violet – Black Bolt – Elite Trainer Box – Zekrom",
     "url": "https://boosterpoint.pl/produkt/pokemon-tcg-scarlet-violet-black-bolt-elite-trainer-box-zekrom/",
-    "store": "boosterpoint"
+    "store": "boosterpoint",
+    "product_id": "black bolt elite trainer box",
+    "target_price": 230.0
   },
- {
-  "name": "Pokemon TCG Scarlet & Violet Destined Rivals Elite Trainer Box (Empik)",
-  "url": "https://www.empik.com/karty-pokemon-tcg-scarlet-violet-destined-rivals-elite-trainer-box-the-pokemon-company-international,p1605015549,zabawki-p",
-  "store": "empik"
-},
-{
-  "name": "Pokemon TCG Scarlet & Violet Destined Rivals Premium Checklane Blister (Empik)",
-  "url": "https://www.empik.com/karty-pokemon-tcg-scarlet-violet-destined-rivals-premium-checklane-blister-skeledirge-togek-the-pokemon-company-international,p1605015521,zabawki-p",
-  "store": "empik"
-},
-{
-  "name": "Pokemon TCG Rival Battle Deck Marnie (Świat Kart)",
-  "url": "https://swiatkart.com.pl/pl/p/Pokemon-TCG-Rival-Battle-Deck-Marnie/886",
-  "store": "swiatkart"
-},
-{
-  "name": "Pokemon TCG Surging Sparks Booster Pack (Świat Kart)",
-  "url": "https://swiatkart.com.pl/pl/p/Pokemon-TCG-Scarlet-Violet-Surging-Sparks-Booster-Pack/98",
-  "store": "swiatkart"
-}
+  {
+    "name": "Pokémon TCG: Scarlet & Violet - Black Bolt - Binder Collection - Zekrom (Planowana premiera: 18 lipca 2025 r.)",
+    "url": "https://www.centrum-mtg.com.pl/pokemon-tcg-scarlet-violet-black-bolt-binder-collection-zekrom",
+    "store": "centrum-mtg",
+    "product_id": "black bolt binder",
+    "target_price": 120.0
+  },
+  {
+    "name": "Pokémon TCG: Scarlet & Violet - White Flare - Binder Collection - Reshiram (Planowana premiera: 18 lipca 2025 r.)",
+    "url": "https://www.centrum-mtg.com.pl/pokemon-tcg-scarlet-violet-white-flare-binder-collection-reshiram",
+    "store": "centrum-mtg",
+    "product_id": "white flare binder",
+    "target_price": 120.0
+  },
+  {
+    "name": "Pokémon TCG: Scarlet & Violet -White Flare - Booster Bundle",
+    "url": "https://dragoneye.pl/pokémon-tcg-scarlet-violet-white-flare-booster-bundle-p-10324.html",
+    "store": "dragoneye",
+    "product_id": "white flare booster bundle"
+  },
+  {
+    "name": "Pokémon TCG: Scarlet & Violet - Black Bolt - Booster Bundle",
+    "url": "https://dragoneye.pl/pokémon-tcg-scarlet-violet-black-bolt-booster-bundle-p-10323.html",
+    "store": "dragoneye",
+    "product_id": "black bolt booster bundle",
+    "target_price": 120.0
+  },
+  {
+    "name": "Pokémon TCG: Scarlet & Violet - Black Bolt - Binder Collection - Zekrom",
+    "url": "https://strefa-tcg.pl/pl/p/Pokemon-TCG-Scarlet-Violet-Black-Bolt-Binder-Collection-Zekrom/1259",
+    "store": "strefa_tcg",
+    "product_id": "black bolt binder",
+    "target_price": 120.0
+  },
+  {
+    "name": "Pokémon TCG: Scarlet & Violet - White Flare - Binder Collection - Reshiram",
+    "url": "https://strefa-tcg.pl/pl/p/Pokemon-TCG-Scarlet-Violet-White-Flare-Binder-Collection-Reshiram/1258",
+    "store": "strefa_tcg",
+    "product_id": "white flare binder",
+    "target_price": 120.0
+  },
+  {
+    "name": "Pokémon TCG: Scarlet & Violet - White Flare & Black Bolt - Unova Victini Illustration Collection",
+    "url": "https://strefa-tcg.pl/pl/p/Pokemon-TCG-Scarlet-Violet-White-Flare-Black-Bolt-Unova-Victini-Illustration-Collection/1260",
+    "store": "strefa_tcg",
+    "product_id": "victini box",
+    "target_price": 90.0
+  },
+  {
+    "name": "Pokémon TCG:  Black Bolt - Elite Trainer Box - Zekrom",
+    "url": "https://swiatkart.com.pl/pl/p/Pokemon-TCG-Black-Bolt-Elite-Trainer-Box-Zekrom/1045",
+    "store": "swiatkart",
+    "product_id": "black bolt elite trainer box",
+    "target_price": 230.0
+  },
+  {
+    "name": "Pokémon TCG:  Black Bolt & White Flare - Elite Trainer Box - Reshiram/Zekrom - Zestaw",
+    "url": "https://swiatkart.com.pl/pl/p/Pokemon-TCG-Black-Bolt-White-Flare-Elite-Trainer-Box-ReshiramZekrom-Zestaw-/1046",
+    "store": "swiatkart",
+    "product_id": "white flare elite trainer box"
+  },
+  {
+    "name": "Pokémon TCG: Black Bolt - Binder Collection - Zekrom",
+    "url": "https://swiatkart.com.pl/pl/p/Pokemon-TCG-Black-Bolt-Binder-Collection-Zekrom/1047",
+    "store": "swiatkart",
+    "product_id": "black bolt binder",
+    "target_price": 120.0
+  },
+  {
+    "name": "Pokémon TCG: Black Bolt - Booster Bundle - Zekrom",
+    "url": "https://swiatkart.com.pl/pl/p/Pokemon-TCG-Black-Bolt-Booster-Bundle-Zekrom/1179",
+    "store": "swiatkart",
+    "product_id": "black bolt booster bundle",
+    "target_price": 120.0
+  },
+  {
+    "name": "Pokémon TCG: White Flare - Binder Collection - Reshiram",
+    "url": "https://swiatkart.com.pl/pl/p/Pokemon-TCG-White-Flare-Binder-Collection-Reshiram/1048",
+    "store": "swiatkart",
+    "product_id": "white flare binder",
+    "target_price": 120.0
+  },
+  {
+    "name": "Pokémon TCG: White Flare - Booster Bundle - Reshiram",
+    "url": "https://swiatkart.com.pl/pl/p/Pokemon-TCG-White-Flare-Booster-Bundle-Reshiram/1178",
+    "store": "swiatkart",
+    "product_id": "white flare booster bundle"
+  },
+  {
+    "name": "Pokémon TCG: White Flare & Black Bolt - Unova Victini Illustration Collection",
+    "url": "https://swiatkart.com.pl/pl/p/Pokemon-TCG-White-Flare-Black-Bolt-Unova-Victini-Illustration-Collection-/1050",
+    "store": "swiatkart",
+    "product_id": "victini box",
+    "target_price": 90.0
+  },
+  {
+    "name": "Pokémon TCG: Scarlet & Violet - White Flare & Black Bolt - Unova Victini Illustration Collection (PREORDER)",
+    "url": "https://loficards.pl/Pokemon-TCG-Scarlet-Violet-White-Flare-Black-Bolt-Unova-Victini-Illustration-Collection",
+    "store": "loficards",
+    "product_id": "victini box",
+    "target_price": 90.0
+  },
+  {
+    "name": "Pokémon TCG: White Flare - Binder Collection (PREORDER)",
+    "url": "https://loficards.pl/Pokemon-TCG-White-Flare-Binder-Collection",
+    "store": "loficards",
+    "product_id": "white flare binder",
+    "target_price": 120.0
+  },
+  {
+    "name": "Pokémon TCG: Black Bolt - Binder Collection (PREORDER)",
+    "url": "https://loficards.pl/Pokemon-TCG-Black-Bolt-Binder-Collection",
+    "store": "loficards",
+    "product_id": "black bolt binder",
+    "target_price": 120.0
+  },
+  {
+    "name": "Pokémon TCG: Black Bolt - Elite Trainer Box (PREORDER)",
+    "url": "https://loficards.pl/Pokemon-TCG-Black-Bolt-Elite-Trainer-Box",
+    "store": "loficards",
+    "product_id": "black bolt elite trainer box",
+    "target_price": 230.0
+  },
+  {
+    "name": "Pokémon TCG: White Flare - Elite Trainer Box (PREORDER)",
+    "url": "https://loficards.pl/Pokemon-TCG-Black-Bolt-White-Flare-Elite-Trainer-Box",
+    "store": "loficards",
+    "product_id": "white flare elite trainer box"
+  },
+  {
+    "name": "Pokémon TCG: White Flare – Elite Trainer Box (PREORDER)",
+    "url": "https://lootquest.pl/produkt/pokemon-tcg-white-flare-elite-trainer-box/",
+    "store": "lootquest",
+    "product_id": "white flare elite trainer box"
+  },
+  {
+    "name": "Pokémon TCG: Black Bolt – Elite Trainer Box (PREORDER)",
+    "url": "https://lootquest.pl/produkt/pokemon-tcg-black-bolt-elite-trainer-box/",
+    "store": "lootquest",
+    "product_id": "black bolt elite trainer box",
+    "target_price": 230.0
+  },
+  {
+    "name": "Pokémon TCG: White Flare – Binder Collection (PREORDER)",
+    "url": "https://lootquest.pl/produkt/pokemon-tcg-white-flare-binder-collection/",
+    "store": "lootquest",
+    "product_id": "white flare binder",
+    "target_price": 120.0
+  },
+  {
+    "name": "Pokémon TCG: Black Bolt – Binder Collection (PREORDER)",
+    "url": "https://lootquest.pl/produkt/pokemon-tcg-black-bolt-binder-collection/",
+    "store": "lootquest",
+    "product_id": "black bolt binder",
+    "target_price": 120.0
+  },
+  {
+    "name": "Pokémon TCG: Destined Rivals – Booster",
+    "url": "https://lootquest.pl/produkt/pokemon-tcg-destined-rivals-booster/",
+    "store": "lootquest",
+    "product_id": "destined rivals booster",
+    "target_price": 20.0
+  },
+  {
+    "name": "Pokémon TCG: Destined Rivals – Elite Trainer Box",
+    "url": "https://lootquest.pl/produkt/pokemon-tcg-destined-rivals-elite-trainer-box/",
+    "store": "lootquest",
+    "product_id": "destined rivals elite trainer box"
+  },
+  {
+    "name": "Pokémon TCG: Scarlet & Violet - 151 - Booster Bundle",
+    "url": "https://mycards.pl/pl/p/Pokemon-TCG-Scarlet-Violet-151-Booster-Bundle/203",
+    "store": "mycards",
+    "product_id": "151 booster bundle",
+    "target_price": 250.0
+  },
+  {
+    "name": "Pokémon TCG: Scarlet & Violet – White Flare & Black Bolt – Unova Victini Illustration Collection",
+    "url": "https://poke-collectibles.shop/produkt/pokemon-tcg-scarlet-violet-white-flare-black-bolt-unova-victini-illustration-collection/",
+    "store": "poke-collectibles",
+    "product_id": "victini box",
+    "target_price": 90.0
+  },
+  {
+    "name": "Pokémon TCG: Scarlet & Violet – Black Bolt & White Flare – Binder Collection – Reshiram/Zekrom",
+    "url": "https://poke-collectibles.shop/produkt/pokemon-tcg-scarlet-violet-black-bolt-white-flare-binder-collection-reshiram-zekrom/",
+    "store": "poke-collectibles",
+    "product_id": "white flare binder",
+    "target_price": 120.0
+  },
+  {
+    "name": "Pokémon TCG: 151 – Booster Bundle",
+    "url": "https://poke-collectibles.shop/produkt/pokemon-tcg-151-booster-bundle/",
+    "store": "poke-collectibles",
+    "product_id": "151 booster bundle",
+    "target_price": 250.0
+  },
+  {
+    "name": "Pokémon TCG: 151 – Booster",
+    "url": "https://poke-collectibles.shop/produkt/pokemon-tcg-151-booster/",
+    "store": "poke-collectibles",
+    "product_id": "151 booster"
+  },
+  {
+    "name": "[ Przedsprzedaż ] Pokémon TCG Black Bolt Binder Collection Zekrom",
+    "url": "https://poke-collectibles.shop/pl/p/-Przedsprzedaz-Pokemon-TCG-Black-Bolt-Binder-Collection-Zekrom/679",
+    "store": "poke-collectibles",
+    "product_id": "black bolt binder",
+    "target_price": 120.0
+  },
+  {
+    "name": "Pokémon TCG: White Flare - Binder Collection - Reshiram",
+    "url": "https://pokeshop.pl/pokmon-tcg-white-flare-binder-collection-reshiram-p-1712.html",
+    "store": "pokeshop",
+    "product_id": "white flare binder",
+    "target_price": 120.0
+  },
+  {
+    "name": "Pokémon TCG: Black Bolt - Binder Collection - Zekrom",
+    "url": "https://pokeshop.pl/pokmon-tcg-black-bolt-binder-collection-zekrom-p-1713.html",
+    "store": "pokeshop",
+    "product_id": "black bolt binder",
+    "target_price": 120.0
+  },
+  {
+    "name": "Pokémon TCG: Black Bolt - Elite Trainer Box - Zekrom",
+    "url": "https://pokeshop.pl/pokmon-tcg-black-bolt-elite-trainer-box-zekrom-p-1711.html",
+    "store": "pokeshop",
+    "product_id": "black bolt elite trainer box",
+    "target_price": 230.0
+  },
+  {
+    "name": "Pokémon TCG: White Flare & Black Bolt - Unova Victini Illustration Collection",
+    "url": "https://pokeshop.pl/pokmon-tcg-white-flare-black-bolt-unova-victini-illustration-collection-p-1715.html",
+    "store": "pokeshop",
+    "product_id": "victini box",
+    "target_price": 90.0
+  },
+  {
+    "name": "Pokémon TCG: White Flare - Elite Trainer Box - Reshiram",
+    "url": "https://pokeshop.pl/pokmon-tcg-white-flare-elite-trainer-box-reshiram-p-1710.html",
+    "store": "pokeshop",
+    "product_id": "white flare elite trainer box"
+  },
+  {
+    "name": "Pokemon TCG: Scarlet & Violet 151 - Booster",
+    "url": "https://pokeshop.pl/pokemon-tcg-scarlet-violet-151-booster-p-1141.html",
+    "store": "pokeshop",
+    "product_id": "151 booster"
+  },
+  {
+    "name": "Pokémon TCG: Destined Rivals - Booster",
+    "url": "https://pokeshop.pl/pokmon-tcg-destined-rivals-booster-p-1709.html",
+    "store": "pokeshop",
+    "product_id": "destined rivals booster",
+    "target_price": 20.0
+  },
+  {
+    "name": "Pokémon TCG: Destined Rivals - Elite Trainer Box (ETB)",
+    "url": "https://pokeshop.pl/pokmon-tcg-destined-rivals-elite-trainer-box-etb-p-1708.html",
+    "store": "pokeshop",
+    "product_id": "destined rivals elite trainer box"
+  },
+  {
+    "name": "Pokemon TCG: Scarlet & Violet 151 Booster",
+    "url": "https://poketrader.eu/pokemon-tcg-scarlet-violet-151-booster-p-152.html",
+    "store": "poketrader",
+    "product_id": "151 booster"
+  },
+  {
+    "name": "Pokemon TCG: Scarlet & Violet 151 Booster Bundle",
+    "url": "https://poketrader.eu/pokemon-tcg-scarlet-violet-151-booster-bundle-p-156.html",
+    "store": "poketrader",
+    "product_id": "151 booster bundle",
+    "target_price": 250.0
+  },
+  {
+    "name": "Pokemon TCG: Scarlet & Violet - Black Bolt  - Elite Trainer Box (ETB) - Zekrom",
+    "url": "https://poketrader.eu/pokemon-tcg-scarlet-violet-black-bolt-elite-trainer-box-etb-zekrom-p-600.html",
+    "store": "poketrader",
+    "product_id": "black bolt elite trainer box",
+    "target_price": 230.0
+  },
+  {
+    "name": "Pokemon TCG: Scarlet & Violet - Black Bolt  - Binder collection - Zekrom",
+    "url": "https://poketrader.eu/pokemon-tcg-scarlet-violet-black-bolt-binder-collection-zekrom-p-594.html",
+    "store": "poketrader",
+    "product_id": "black bolt binder",
+    "target_price": 120.0
+  },
+  {
+    "name": "Pokemon TCG: Scarlet & Violet - White Flare  - Binder collection - Reshiram",
+    "url": "https://poketrader.eu/pokemon-tcg-scarlet-violet-white-flare-binder-collection-reshiram-p-593.html",
+    "store": "poketrader",
+    "product_id": "white flare binder",
+    "target_price": 120.0
+  },
+  {
+    "name": "Pokemon TCG: 151 - Booster",
+    "url": "https://redraft.pl/pl/p/Pokemon-TCG-151-Booster/283",
+    "store": "redraft",
+    "product_id": "151 booster"
+  },
+  {
+    "name": "Pokemon TCG:  Black Bolt – Booster Bundle – Zekrom",
+    "url": "https://strefakart.pl/product/pokemon-tcg-black-bolt-booster-bundle-zekrom/",
+    "store": "strefakart",
+    "product_id": "black bolt booster bundle",
+    "target_price": 120.0
+  },
+  {
+    "name": "Pokemon TCG: White Flare – Booster Bundle – Reshiram",
+    "url": "https://strefakart.pl/product/pokemon-tcg-white-flare-booster-bundle-reshiram/",
+    "store": "strefakart",
+    "product_id": "white flare booster bundle"
+  },
+  {
+    "name": "Pokemon TCG: White Flare & Black Bolt – Elite Trainer Box – Zekrom",
+    "url": "https://strefakart.pl/product/pokemon-tcg-white-flare-black-bolt-elite-trainer-box-zekrom/",
+    "store": "strefakart",
+    "product_id": "black bolt elite trainer box",
+    "target_price": 230.0
+  },
+  {
+    "name": "Pokemon TCG: White Flare & Black Bolt – Elite Trainer Box – Reshiram",
+    "url": "https://strefakart.pl/product/pokemon-tcg-white-flare-black-bolt-elite-trainer-box-reshiram/",
+    "store": "strefakart",
+    "product_id": "white flare elite trainer box"
+  },
+  {
+    "name": "Pokemon TCG: White Flare & Black Bolt – Binder Collection – Zekrom",
+    "url": "https://strefakart.pl/product/pokemon-tcg-white-flare-black-bolt-binder-collection-zekrom/",
+    "store": "strefakart",
+    "product_id": "white flare binder",
+    "target_price": 120.0
+  },
+  {
+    "name": "Pokemon TCG: White Flare & Black Bolt – Unova Victini Illustration Collection",
+    "url": "https://strefakart.pl/product/pokemon-tcg-white-flare-black-bolt-unova-victini-illustration-collection/",
+    "store": "strefakart",
+    "product_id": "victini box",
+    "target_price": 90.0
+  },
+  {
+    "name": "Pokémon TCG: Scarlet and Violet 151 – Booster",
+    "url": "https://strefakart.pl/product/pokemon-tcg-scarlet-and-violet-151-booster/",
+    "store": "strefakart",
+    "product_id": "151 booster"
+  },
+  {
+    "name": "Pokémon TCG: Destined Rivals – Booster Box (36)",
+    "url": "https://strefakart.pl/product/pokemon-tcg-destined-rivals-booster-box-36/",
+    "store": "strefakart",
+    "product_id": "destined rivals booster box",
+    "target_price": 800.0
+  },
+  {
+    "name": "Pokémon TCG: Destined Rivals – Elite Trainer Box ETB",
+    "url": "https://strefakart.pl/product/pokemon-tcg-destined-rivals-elite-trainer-box-etb/",
+    "store": "strefakart",
+    "product_id": "destined rivals elite trainer box"
+  },
+  {
+    "name": "Pokemon TCG 151 Booster",
+    "url": "https://strefamarzen.pl/en/products/pokemon-tcg-151-booster-21655",
+    "store": "strefamarzen",
+    "product_id": "151 booster"
+  },
+  {
+    "name": "Pokemon TCG Scarlet and Violet 151 Booster Bundle",
+    "url": "https://strefamtg.pl/boostery-i-boxy-pokemon/100977-pokemon-tcg-scarlet-and-violet-151-booster-bundle-820650853210.html",
+    "store": "strefamtg",
+    "product_id": "151 booster bundle",
+    "target_price": 250.0
+  },
+  {
+    "name": "Pokemon SV10 Destined Rivals Booster",
+    "url": "https://strefamtg.pl/boostery-i-boxy-pokemon/108793-pokemon-sv10-destined-rivals-booster-196214111172.html",
+    "store": "strefamtg",
+    "product_id": "destined rivals booster",
+    "target_price": 20.0
+  },
+  {
+    "name": "Pokemon SV10,5 Black Bolt and White Flare Zekrom Elite Trainer Box",
+    "url": "https://strefamtg.pl/talie-i-zestawy-kart-pokemon/109376-pokemon-sv105-black-bolt-and-white-flare-zekrom-elite-trainer-box-196214113619.html",
+    "store": "strefamtg",
+    "product_id": "black bolt elite trainer box",
+    "target_price": 230.0
+  },
+  {
+    "name": "Pokemon SV10,5 Black Bolt and White Flare Reshiram Elite Trainer Box",
+    "url": "https://strefamtg.pl/talie-i-zestawy-kart-pokemon/109375-pokemon-sv105-black-bolt-and-white-flare-reshiram-elite-trainer-box-196214113619.html",
+    "store": "strefamtg",
+    "product_id": "white flare elite trainer box"
+  },
+  {
+    "name": "Pokemon SV10 Destined Rivals Elite Trainer Box",
+    "url": "https://strefamtg.pl/talie-i-zestawy-kart-pokemon/108795-pokemon-sv10-destined-rivals-elite-trainer-box-196214111523.html",
+    "store": "strefamtg",
+    "product_id": "destined rivals elite trainer box"
+  },
+  {
+    "name": "PreOrder Pokemon TCG: Scarlet & Violet - Black Bolt - Elite Trainer Box - Zekrom",
+    "url": "https://www.tcglove.pl/pl/p/PreOrder-Pokemon-TCG-Scarlet-Violet-Black-Bolt-Elite-Trainer-Box-Zekrom/2777?trk_e=9&trk_o=2777&trk_hb=366&trk_hp=2&trk_re=3&trk_ro=37",
+    "store": "tcglove",
+    "product_id": "black bolt elite trainer box",
+    "target_price": 230.0
+  },
+  {
+    "name": "PreOrder Pokemon TCG: Scarlet & Violet - White Flare & Black Bolt - Unova Victini Illustration Collection",
+    "url": "https://www.tcglove.pl/pl/p/PreOrder-Pokemon-TCG-Scarlet-Violet-White-Flare-Black-Bolt-Unova-Victini-Illustration-Collection/2775?trk_e=9&trk_o=2775&trk_hb=366&trk_hp=4&trk_re=3&trk_ro=37",
+    "store": "tcglove",
+    "product_id": "victini box",
+    "target_price": 90.0
+  },
+  {
+    "name": "PreOrder Pokemon TCG: Scarlet & Violet - White Flare - Elite Trainer Box - Reshiram",
+    "url": "https://www.tcglove.pl/pl/p/PreOrder-Pokemon-TCG-Scarlet-Violet-White-Flare-Elite-Trainer-Box-Reshiram/2779?trk_e=9&trk_o=2779&trk_hb=366&trk_hp=6&trk_re=3&trk_ro=37",
+    "store": "tcglove",
+    "product_id": "white flare elite trainer box"
+  },
+  {
+    "name": "Pokémon TCG: Scarlet and Violet 151 - Booster bundle",
+    "url": "https://www.tcglove.pl/pl/p/Pokemon-TCG-Scarlet-and-Violet-151-Booster-bundle-/289?trk_e=9&trk_o=289&trk_hb=366&trk_hp=8&trk_re=3&trk_ro=37",
+    "store": "tcglove",
+    "product_id": "151 booster bundle",
+    "target_price": 250.0
+  },
+  {
+    "name": "PreOrder Pokemon TCG: Scarlet & Violet - Black Bolt - Binder Collection - Zekrom",
+    "url": "https://www.tcglove.pl/pl/p/PreOrder-Pokemon-TCG-Scarlet-Violet-Black-Bolt-Binder-Collection-Zekrom/2773",
+    "store": "tcglove",
+    "product_id": "black bolt binder",
+    "target_price": 120.0
+  },
+  {
+    "name": "PreOrder Pokemon TCG: Scarlet & Violet - White Flare - Binder Collection - Reshiram",
+    "url": "https://www.tcglove.pl/pl/p/PreOrder-Pokemon-TCG-Scarlet-Violet-White-Flare-Binder-Collection-Reshiram/2774",
+    "store": "tcglove",
+    "product_id": "white flare binder",
+    "target_price": 120.0
+  },
+  {
+    "name": "Pokémon TCG: Scarlet and Violet 151 - Booster",
+    "url": "https://www.tcglove.pl/pl/p/Pokemon-TCG-Scarlet-and-Violet-151-Booster/291",
+    "store": "tcglove",
+    "product_id": "151 booster"
+  },
+  {
+    "name": "Pokémon TCG - Destined Rivals - Sleeved Booster",
+    "url": "https://wilczek.poznan.pl/pokemon-tcg-destined-rivals-sleeved-booster.html",
+    "store": "wilczek",
+    "product_id": "destined rivals booster",
+    "target_price": 20.0
+  },
+  {
+    "name": "Pokémon TCG - Destined Rivals - Elite Trainer Box",
+    "url": "https://wilczek.poznan.pl/pokemon-tcg-destined-rivals-elite-trainer-box.html",
+    "store": "wilczek",
+    "product_id": "destined rivals elite trainer box"
+  },
+  {
+    "name": "Pokémon - Scarlet and Violet 151 - Booster Bundle",
+    "url": "https://wilczek.poznan.pl/pokemon-scarlet-and-violet-151-booster-bundle.html",
+    "store": "wilczek",
+    "product_id": "151 booster bundle",
+    "target_price": 250.0
+  },
+  {
+    "name": "Pokémon - Scarlet & Violet 151 - Booster",
+    "url": "https://wilczek.poznan.pl/pokemon-scarlet-violet-151-booster.html",
+    "store": "wilczek",
+    "product_id": "151 booster"
+  },
+  {
+    "name": "Pokemon TCG: Destined Rivals - Booster",
+    "url": "https://elfiagrota.pl/pokemon-tcg-destined-rivals-booster-p-276.html",
+    "store": "elfiagrota",
+    "product_id": "destined rivals booster",
+    "target_price": 20.0
+  },
+  {
+    "name": "Pokemon TCG: Scarlet & Violet 151 - Booster",
+    "url": "https://elfiagrota.pl/pokemon-tcg-scarlet-violet-151-booster-p-33.html",
+    "store": "elfiagrota",
+    "product_id": "151 booster"
+  },
+  {
+    "name": "Pokémon TCG: Scarlet and Violet 151 - Booster Bundle",
+    "url": "https://www.xjoy.pl/scarlet-violet-151-sv35/19211-pokemon-tcg-scarlet-and-violet-151-booster-bundle.html",
+    "store": "xjoy",
+    "product_id": "151 booster bundle",
+    "target_price": 250.0
+  },
+  {
+    "name": "Pokémon TCG: Scarlet and Violet 151 - Booster",
+    "url": "https://www.xjoy.pl/scarlet-violet-151-sv35/23637-pokemon-tcg-scarlet-and-violet-151-booster.html",
+    "store": "xjoy",
+    "product_id": "151 booster"
+  },
+  {
+    "name": "Pokémon TCG: Scarlet & Violet 10.5 - White Flare - Elite Trainer Box Reshiram",
+    "url": "https://www.xjoy.pl/black-bolt-white-flare-sv105/23586-pokemon-tcg-scarlet-violet-105-white-flare-elite-trainer-box-reshiram.html",
+    "store": "xjoy",
+    "product_id": "white flare elite trainer box"
+  },
+  {
+    "name": "Pokémon TCG: Scarlet & Violet 10.5 - Black Bolt - Elite Trainer Box Zekrom",
+    "url": "https://www.xjoy.pl/black-bolt-white-flare-sv105/23587-pokemon-tcg-scarlet-violet-105-black-bolt-elite-trainer-box-zekrom.html",
+    "store": "xjoy",
+    "product_id": "black bolt elite trainer box",
+    "target_price": 230.0
+  },
+  {
+    "name": "Pokémon TCG: Scarlet & Violet 10.5 - White Flare - Binder Collection",
+    "url": "https://www.xjoy.pl/zestawy-kolekcjonerskie/23588-pokemon-tcg-scarlet-violet-105-white-flare-binder-collection.html",
+    "store": "xjoy",
+    "product_id": "white flare binder",
+    "target_price": 120.0
+  },
+  {
+    "name": "Pokémon TCG: Scarlet & Violet 10.5 - Black Bolt - Binder Collection",
+    "url": "https://www.xjoy.pl/zestawy-kolekcjonerskie/23589-pokemon-tcg-scarlet-violet-105-black-bolt-binder-collection.html",
+    "store": "xjoy",
+    "product_id": "black bolt binder",
+    "target_price": 120.0
+  },
+  {
+    "name": "PREORDER LIMIT 1SZT/OS Pokémon TCG: Scarlet & Violet - Black Bolt - Binder Collection",
+    "url": "https://kantodrop.pl/pl/p/PREORDER-LIMIT-1SZTOS-Pokemon-TCG-Scarlet-Violet-Black-Bolt-Binder-Collection/134",
+    "store": "kantodrop",
+    "product_id": "black bolt binder",
+    "target_price": 120.0
+  },
+  {
+    "name": "PREORDER LIMIT 1SZT/OS Pokémon TCG: Scarlet & Violet - White Flare - Binder Collection",
+    "url": "https://kantodrop.pl/pl/p/PREORDER-LIMIT-1SZTOS-Pokemon-TCG-Scarlet-Violet-White-Flare-Binder-Collection/133",
+    "store": "kantodrop",
+    "product_id": "white flare binder",
+    "target_price": 120.0
+  },
+  {
+    "name": "Pokémon TCG: Scarlet & Violet - Black Bolt - Elite Trainer Box - Zekrom",
+    "url": "https://www.rebel.pl/pokemon/pokemon-tcg-scarlet-violet-black-bolt-elite-trainer-box-zekrom-2026987.html",
+    "store": "rebel",
+    "product_id": "black bolt elite trainer box",
+    "target_price": 230.0
+  },
+  {
+    "name": "Pokémon TCG: Scarlet & Violet - White Flare - Elite Trainer Box - Reshiram",
+    "url": "https://www.rebel.pl/pokemon/pokemon-tcg-scarlet-violet-white-flare-elite-trainer-box-reshiram-2026986.html",
+    "store": "rebel",
+    "product_id": "white flare elite trainer box"
+  },
+  {
+    "name": "Pokémon TCG: Scarlet & Violet - White Flare & Black Bolt - Unova Victini Illustration Collection",
+    "url": "https://www.rebel.pl/pokemon/pokemon-tcg-scarlet-violet-white-flare-black-bolt-unova-victini-illustration-collection-2027115.html",
+    "store": "rebel",
+    "product_id": "victini box",
+    "target_price": 90.0
+  },
+  {
+    "name": "Pokémon TCG: Scarlet & Violet - Black Bolt - Binder Collection - Zekrom",
+    "url": "https://www.rebel.pl/pokemon/pokemon-tcg-scarlet-violet-black-bolt-binder-collection-zekrom-2026988.html",
+    "store": "rebel",
+    "product_id": "black bolt binder",
+    "target_price": 120.0
+  },
+  {
+    "name": "Pokémon TCG: Scarlet & Violet - White Flare - Binder Collection - Reshiram",
+    "url": "https://www.rebel.pl/pokemon/pokemon-tcg-scarlet-violet-white-flare-binder-collection-reshiram-2026984.html",
+    "store": "rebel",
+    "product_id": "white flare binder",
+    "target_price": 120.0
+  },
+  {
+    "name": "White Flare & Black Bolt - Unova Poster Collection",
+    "url": "https://juniorkurczak.pl/products/white-flare-black-bolt-unova-poster-collection",
+    "store": "juniorkurczak",
+    "product_id": "white flare black bolt poster collection"
+  },
+  {
+    "name": "Pokémon TCG: Scarlet & Violet - White Flare & Black Bolt - Unova Poster Collection (Planowana premiera: 18 lipca 2025 r.)",
+    "url": "https://www.centrum-mtg.com.pl/pokemon-tcg-scarlet-violet-white-flare-black-bolt-unova-poster-collection",
+    "store": "centrum-mtg",
+    "product_id": "white flare black bolt poster collection"
+  },
+  {
+    "name": "Pokémon TCG: Rival Battle Deck - Marnie",
+    "url": "https://dragoneye.pl/pokémon-tcg-rival-battle-deck-marnie-p-9837.html",
+    "store": "dragoneye",
+    "product_id": "marnie's deck",
+    "target_price": 80.0
+  },
+  {
+    "name": "Pokémon TCG: Scarlet & Violet - White Flare & Black Bolt - Unova Poster Collection",
+    "url": "https://strefa-tcg.pl/pl/p/Pokemon-TCG-Scarlet-Violet-White-Flare-Black-Bolt-Unova-Poster-Collection/1261",
+    "store": "strefa_tcg",
+    "product_id": "white flare black bolt poster collection"
+  },
+  {
+    "name": "Pokémon TCG: White Flare & Black Bolt - Unova Poster Collection",
+    "url": "https://swiatkart.com.pl/pl/p/Pokemon-TCG-White-Flare-Black-Bolt-Unova-Poster-Collection/1049",
+    "store": "swiatkart",
+    "product_id": "white flare black bolt poster collection"
+  },
+  {
+    "name": "Pokémon TCG: Black Bolt & White Flare – Poster Collection (PREORDER)",
+    "url": "https://lootquest.pl/produkt/pokemon-tcg-white-flare-black-bolt-poster-collection/",
+    "store": "lootquest",
+    "product_id": "white flare black bolt poster collection"
+  },
+  {
+    "name": "Pokémon TCG: Scarlet & Violet - Black Bolt  &  White Flare - Unova Poster Collection - PREORDER",
+    "url": "https://mycards.pl/pl/p/Pokemon-TCG-Scarlet-Violet-Black-Bolt-White-Flare-Unova-Poster-Collection-PREORDER/206",
+    "store": "mycards",
+    "product_id": "white flare black bolt poster collection"
+  },
+  {
+    "name": "Pokémon TCG: White Flare & Black Bolt - Unova Poster Collection",
+    "url": "https://pokeshop.pl/pokmon-tcg-white-flare-black-bolt-unova-poster-collection-p-1714.html",
+    "store": "pokeshop",
+    "product_id": "white flare black bolt poster collection"
+  },
+  {
+    "name": "Pokemon TCG: White Flare & Black Bolt – Unova Poster Collection",
+    "url": "https://strefakart.pl/product/pokemon-tcg-white-flare-black-bolt-unova-poster-collection/",
+    "store": "strefakart",
+    "product_id": "white flare black bolt poster collection"
+  },
+  {
+    "name": "Pokémon TCG: Rival Battle Deck – Marnie",
+    "url": "https://strefakart.pl/product/pokemon-tcg-rival-battle-deck-marnie/",
+    "store": "strefakart",
+    "product_id": "marnie's deck",
+    "target_price": 80.0
+  },
+  {
+    "name": "Pokemon Rival Battle Deck Marnie",
+    "url": "https://strefamtg.pl/talie-i-zestawy-kart-pokemon/109612-pokemon-rival-battle-deck-marnie-196214111851.html",
+    "store": "strefamtg",
+    "product_id": "marnie's deck",
+    "target_price": 80.0
+  },
+  {
+    "name": "PreOrder Pokemon TCG: Scarlet & Violet - White Flare & Black Bolt - Unova Poster Collection",
+    "url": "https://www.tcglove.pl/pl/p/PreOrder-Pokemon-TCG-Scarlet-Violet-White-Flare-Black-Bolt-Unova-Poster-Collection/2776?trk_e=9&trk_o=2776&trk_hb=366&trk_hp=4&trk_re=3&trk_ro=37",
+    "store": "tcglove",
+    "product_id": "white flare black bolt poster collection"
+  },
+  {
+    "name": "Pokémon TCG: Rival Battle Deck - Marnie",
+    "url": "https://www.xjoy.pl/pokemon-gotowe-talie-i-zestawy/23438-pokemon-tcg-rival-battle-deck-marnie.html",
+    "store": "xjoy",
+    "product_id": "marnie's deck",
+    "target_price": 80.0
+  },
+  {
+    "name": "Pokémon TCG: Scarlet & Violet 10.5 - Black Bolt & White Flare Poster Collection",
+    "url": "https://www.xjoy.pl/zestawy-kolekcjonerskie/23590-pokemon-tcg-scarlet-violet-105-black-bolt-white-flare-poster-collection.html",
+    "store": "xjoy",
+    "product_id": "white flare black bolt poster collection"
+  },
+  {
+    "name": "ZESTAW KART POKEMON 2025 talia karty mata do gry Rival Battle Deck Marnie",
+    "url": "https://zgrani.pl/pl/products/pokemon/gotowe-talie/zestaw-kart-pokemon-2025-talia-karty-mata-do-gry-rival-battle-deck-marnie-25209",
+    "store": "zgrani",
+    "product_id": "marnie's deck",
+    "target_price": 80.0
+  },
+  {
+    "name": "PREORDER LIMIT 6/OS Pokémon TCG: Scarlet & Violet - White Flare & Black Bolt - Unova Poster Collection",
+    "url": "https://kantodrop.pl/pl/p/PREORDER-LIMIT-6OS-Pokemon-TCG-Scarlet-Violet-White-Flare-Black-Bolt-Unova-Poster-Collection-/136",
+    "store": "kantodrop",
+    "product_id": "white flare black bolt poster collection"
+  },
+  {
+    "name": "Pokémon TCG: Scarlet & Violet – Black Bolt – Elite Trainer Box – Zekrom – Przedsprzedaż",
+    "url": "https://hejmistrzu.pl/produkt/pokemon-tcg-scarlet-violet-black-bolt-elite-trainer-box-zekrom-przedsprzedaz-2/",
+    "store": "hejmistrzu",
+    "product_id": "black bolt elite trainer box",
+    "target_price": 230.0
+  },
+  {
+    "name": "Pokémon TCG: Scarlet & Violet – White Flare & Black Bolt – Unova Poster Collection – Przedsprzedaż",
+    "url": "https://hejmistrzu.pl/produkt/pokemon-tcg-scarlet-violet-white-flare-black-bolt-unova-poster-collection/",
+    "store": "hejmistrzu",
+    "product_id": "white flare black bolt poster collection"
+  },
+  {
+    "name": "Pokémon TCG: Scarlet & Violet – White Flare – Elite Trainer Box – Reshiram – Przedsprzedaż",
+    "url": "https://hejmistrzu.pl/produkt/pokemon-tcg-scarlet-violet-black-bolt-elite-trainer-box-zekrom-przedsprzedaz/",
+    "store": "hejmistrzu",
+    "product_id": "white flare elite trainer box"
+  },
+  {
+    "name": "Pokémon TCG: Scarlet & Violet – Black Bolt – Binder Collection – Zekrom – Przedsprzedaż",
+    "url": "https://hejmistrzu.pl/produkt/pokemon-tcg-scarlet-violet-black-bolt-binder-collection-zekrom-przedsprzedaz/",
+    "store": "hejmistrzu",
+    "product_id": "black bolt binder",
+    "target_price": 120.0
+  },
+  {
+    "name": "Pokémon TCG: Scarlet & Violet – White Flare – Binder Collection – Reshiram – Przedsprzedaż",
+    "url": "https://hejmistrzu.pl/produkt/pokemon-tcg-scarlet-violet-white-flare-binder-collection-reshiram-przedsprzedaz/",
+    "store": "hejmistrzu",
+    "product_id": "white flare binder",
+    "target_price": 120.0
+  },
+  {
+    "name": "Pokémon TCG: Mega Evolution - Elite Trainer Box - Lucario",
+    "url": "https://www.rebel.pl/pokemon/pokemon-tcg-mega-evolution-elite-trainer-box-lucario-2027532.html",
+    "store": "rebel",
+    "product_id": "mega evolution elite trainer box lucario",
+    "target_price": 230.0
+  },
+  {
+    "name": "Pokémon TCG: Mega Evolution - Elite Trainer Box - Lucario (Planowana premiera: 26 września 2025)",
+    "url": "https://www.centrum-mtg.com.pl/pokemon-tcg-mega-evolution-elite-trainer-box-lucario-planowana-premiera-26-wrzesnia-2025",
+    "store": "centrum-mtg",
+    "product_id": "mega evolution elite trainer box lucario",
+    "target_price": 230.0
+  },
+  {
+    "name": "Pokémon TCG: Mega Evolution - Elite Trainer Box  Lucario",
+    "url": "https://swiatkart.com.pl/pl/p/Pokemon-TCG-Mega-Evolution-Elite-Trainer-Box-Lucario/1208",
+    "store": "swiatkart",
+    "product_id": "mega evolution elite trainer box lucario",
+    "target_price": 230.0
+  },
+  {
+    "name": "Pokémon TCG: Scarlet & Violet – White Flare & Black Bolt – Unova Poster Collection",
+    "url": "https://poke-collectibles.shop/produkt/pokemon-tcg-scarlet-violet-white-flare-black-bolt-unova-poster-collection/",
+    "store": "poke-collectibles",
+    "product_id": "white flare black bolt poster collection"
+  },
+  {
+    "name": "PreOrder Pokemon TCG: Mega Evolution 01 - Elite Trainer Box - Lucario",
+    "url": "https://www.tcglove.pl/pl/p/PreOrder-Pokemon-TCG-Mega-Evolution-01-Elite-Trainer-Box-Lucario/2860",
+    "store": "tcglove",
+    "product_id": "mega evolution elite trainer box lucario",
+    "target_price": 230.0
+  },
+  {
+    "name": "Karty Pokémon TCG: Team Rocket’s Mewtwo ex Box",
+    "url": "https://www.rebel.pl/pokemon/pokemon-tcg-mega-evolution-elite-trainer-box-gardevoir-2027531.html",
+    "store": "rebel",
+    "product_id": "mega evolution elite trainer box gardevoir",
+    "target_price": 230.0
+  },
+  {
+    "name": "Pokémon TCG: Mega Evolution - Elite Trainer Box - Gardevoir (Planowana premiera: 26 września 2025)",
+    "url": "https://www.centrum-mtg.com.pl/pokemon-tcg-mega-evolution-elite-trainer-box-gardevoir-planowana-premiera-26-wrzesnia-2025",
+    "store": "centrum-mtg",
+    "product_id": "mega evolution elite trainer box gardevoir",
+    "target_price": 230.0
+  },
+  {
+    "name": "Pokémon TCG: Mega Evolution - Elite Trainer Box Gardevoir",
+    "url": "https://swiatkart.com.pl/pl/p/Pokemon-TCG-Mega-Evolution-Elite-Trainer-Box-Gardevoir/1209",
+    "store": "swiatkart",
+    "product_id": "mega evolution elite trainer box gardevoir",
+    "target_price": 230.0
+  },
+  {
+    "name": "Pokemon TCG: 65 Koszulek z Elite Trainer Box (ETB)  White Flare - Reshiram",
+    "url": "https://poketrader.eu/pokemon-tcg-65-koszulek-z-elite-trainer-box-etb-white-flare-reshiram-p-596.html",
+    "store": "poketrader",
+    "product_id": "white flare elite trainer box"
+  },
+  {
+    "name": "PreOrder Pokemon TCG: Mega Evolution 01 - Elite Trainer Box - Gardevoir/Lucario Zestaw",
+    "url": "https://www.tcglove.pl/pl/p/PreOrder-Pokemon-TCG-Mega-Evolution-01-Elite-Trainer-Box-GardevoirLucario-Zestaw-/2861",
+    "store": "tcglove",
+    "product_id": "mega evolution elite trainer box gardevoir",
+    "target_price": 230.0
+  },
+  {
+    "name": "Pokémon TCG: Scarlet & Violet – Black Bolt – Binder Collection – Zekrom",
+    "url": "https://plcardworld.pl/p/pokemon-tcg-scarlet-violet-black-bolt-binder-collection-zekrom/",
+    "store": "plcardworld",
+    "product_id": "black bolt binder",
+    "target_price": 120.0
+  },
+  {
+    "name": "Pokémon TCG: Scarlet & Violet – White Flare – Binder Collection – Reshiram",
+    "url": "https://plcardworld.pl/p/pokemon-tcg-scarlet-violet-white-flare-binder-collection-reshiram/",
+    "store": "plcardworld",
+    "product_id": "white flare binder",
+    "target_price": 120.0
+  },
+  {
+    "name": "Pokémon TCG: Scarlet & Violet – White Flare & Black Bolt – Unova Poster Collection",
+    "url": "https://plcardworld.pl/p/pokemon-tcg-scarlet-violet-white-flare-black-bolt-unova-poster-collection/",
+    "store": "plcardworld",
+    "product_id": "white flare black bolt poster collection"
+  },
+  {
+    "name": "Pokémon TCG: Scarlet & Violet – White Flare & Black Bolt – Unova Victini Illustration Collection",
+    "url": "https://plcardworld.pl/p/pokemon-tcg-scarlet-violet-white-flare-black-bolt-unova-victini-illustration-collection/",
+    "store": "plcardworld",
+    "product_id": "victini box",
+    "target_price": 90.0
+  },
+  {
+    "name": "Pokémon TCG: Scarlet & Violet – Black Bolt – Booster Bundle – Zekrom – Przedsprzedaż",
+    "url": "https://hejmistrzu.pl/produkt/pokemon-tcg-scarlet-violet-black-bolt-booster-bundle-zekrom-przedsprzedaz/",
+    "store": "hejmistrzu",
+    "product_id": "black bolt booster bundle",
+    "target_price": 120.0
+  },
+  {
+    "name": "Pokémon TCG: Scarlet & Violet – White Flare – Booster Bundle – Reshiram – Przedsprzedaż",
+    "url": "https://hejmistrzu.pl/produkt/pokemon-tcg-scarlet-violet-white-flare-booster-bundle-reshiram-przedsprzedaz/",
+    "store": "hejmistrzu",
+    "product_id": "white flare booster bundle"
+  },
+  {
+    "name": "Pokémon TCG: Scarlet & Violet – White Flare & Black Bolt – Unova Victini Illustration Collection – Przedsprzedaż",
+    "url": "https://hejmistrzu.pl/produkt/pokemon-tcg-scarlet-violet-white-flare-black-bolt-unova-victini-illustration-collection-przedsprzedaz/",
+    "store": "hejmistrzu",
+    "product_id": "victini box",
+    "target_price": 90.0
+  },
+  {
+    "name": "Pokémon TCG: Scarlet & Violet – Black Bolt – Booster Bundle – Zekrom",
+    "url": "https://plcardworld.pl/p/pokemon-tcg-scarlet-violet-black-bolt-booster-bundle-zekrom/",
+    "store": "plcardworld",
+    "product_id": "black bolt booster bundle",
+    "target_price": 120.0
+  },
+  {
+    "name": "Pokémon TCG: Scarlet & Violet – White Flare – Booster Bundle – Reshiram",
+    "url": "https://plcardworld.pl/p/pokemon-tcg-scarlet-violet-white-flare-booster-bundle-reshiram/",
+    "store": "plcardworld",
+    "product_id": "white flare booster bundle"
+  },
+  {
+    "name": "Pokémon TCG: Scarlet & Violet - Black Bolt - Booster Bundle - Zekrom ( Planowana premiera: 22 sierpnia 2025 r.)",
+    "url": "https://www.centrum-mtg.com.pl/pokemon-tcg-scarlet-violet-black-bolt-booster-bundle-zekrom",
+    "store": "centrum-mtg",
+    "product_id": "black bolt booster bundle",
+    "target_price": 120.0
+  },
+  {
+    "name": "Pokémon TCG: Scarlet & Violet - White Flare - Booster Bundle - Reshiram ( Planowana premiera: 22 sierpnia 2025 r.)",
+    "url": "https://www.centrum-mtg.com.pl/pokemon-tcg-scarlet-violet-white-flare-booster-bundle-reshiram-planowana-premiera-22-sierpnia-2025-r",
+    "store": "centrum-mtg",
+    "product_id": "white flare booster bundle"
+  },
+  {
+    "name": "Pokémon TCG: Scarlet & Violet - White Flare & Black Bolt - Unova Victini Illustration Collection (Planowana premiera: sierpień 2025 r.)",
+    "url": "https://www.centrum-mtg.com.pl/pokemon-tcg-scarlet-violet-white-flare-black-bolt-unova-victini-illustration-collection",
+    "store": "centrum-mtg",
+    "product_id": "victini box",
+    "target_price": 90.0
+  },
+  {
+    "name": "Pokémon TCG: Scarlet & Violet - White Flare - Elite Trainer Box (Planowana premiera: 18 lipca 2025 r.)",
+    "url": "https://www.centrum-mtg.com.pl/pokemon-tcg-scarlet-violet-white-flare-elite-trainer-box",
+    "store": "centrum-mtg",
+    "product_id": "white flare elite trainer box"
+  },
+  {
+    "name": "Pokémon TCG: Scarlet & Violet - Black Bolt - Elite Trainer Box (Planowana premiera: 18 lipca 2025 r.)",
+    "url": "https://www.centrum-mtg.com.pl/pokemon-tcg-scarlet-violet-black-bolt-elite-trainer-box",
+    "store": "centrum-mtg",
+    "product_id": "black bolt elite trainer box",
+    "target_price": 230.0
+  },
+  {
+    "name": "Pokémon TCG: Black Bolt & White Flare – Illustration Collection – Victini (PREORDER)",
+    "url": "https://lootquest.pl/produkt/pokemon-tcg-white-flare-black-bolt-illustration-collection-victini/",
+    "store": "lootquest",
+    "product_id": "victini box",
+    "target_price": 90.0
+  },
+  {
+    "name": "Pokémon TCG: Scarlet & Violet - Black Bolt  &  White Flare - Elite Trainer Box set - PREORDER",
+    "url": "https://mycards.pl/pl/p/Pokemon-TCG-Scarlet-Violet-Black-Bolt-White-Flare-Elite-Trainer-Box-set-PREORDER/205",
+    "store": "mycards",
+    "product_id": "black bolt elite trainer box",
+    "target_price": 230.0
+  },
+  {
+    "name": "Pokémon TCG: Scarlet & Violet - Black Bolt  &  White Flare - Unova Victini Illustration Collection -  PREORDER",
+    "url": "https://mycards.pl/pl/p/Pokemon-TCG-Scarlet-Violet-Black-Bolt-White-Flare-Unova-Victini-Illustration-Collection-PREORDER/210",
+    "store": "mycards",
+    "product_id": "victini box",
+    "target_price": 90.0
+  },
+  {
+    "name": "Pokémon TCG: White Flare / Black Bolt – Booster Bundle",
+    "url": "https://poke-collectibles.shop/produkt/pokemon-tcg-white-flare-black-bolt-booster-bundle/",
+    "store": "poke-collectibles",
+    "product_id": "black bolt booster bundle",
+    "target_price": 120.0
+  },
+  {
+    "name": "Pokémon TCG: White Flare / Black Bolt – Elite Trainer Box",
+    "url": "https://poke-collectibles.shop/produkt/pokemon-tcg-white-flare-black-bolt-elite-trainer-box/",
+    "store": "poke-collectibles",
+    "product_id": "black bolt elite trainer box",
+    "target_price": 230.0
+  },
+  {
+    "name": "Pokemon TCG: Scarlet & Violet - Unova Victini Illustration Collection",
+    "url": "https://poketrader.eu/pokemon-tcg-scarlet-violet-unova-victini-illustration-collection-p-590.html",
+    "store": "poketrader",
+    "product_id": "victini box",
+    "target_price": 90.0
+  },
+  {
+    "name": "Pokemon SV10,5 TCG Black Bolt and White Flare Zekrom Booster Bundle",
+    "url": "https://strefamtg.pl/boostery-i-boxy-pokemon/109378-pokemon-sv105-tcg-black-bolt-and-white-flare-zekrom-booster-bundle-196214118393.html",
+    "store": "strefamtg",
+    "product_id": "black bolt booster bundle",
+    "target_price": 120.0
+  },
+  {
+    "name": "PreOrder Pokemon TCG: Scarlet & Violet - Black Bolt - Booster Bundle - Zekrom",
+    "url": "https://www.tcglove.pl/pl/p/PreOrder-Pokemon-TCG-Scarlet-Violet-Black-Bolt-Booster-Bundle-Zekrom/2813",
+    "store": "tcglove",
+    "product_id": "black bolt booster bundle",
+    "target_price": 120.0
+  },
+  {
+    "name": "PreOrder Pokemon TCG: Scarlet & Violet - White Flare - Booster Bundle - Reshiram",
+    "url": "https://www.tcglove.pl/pl/p/PreOrder-Pokemon-TCG-Scarlet-Violet-White-Flare-Booster-Bundle-Reshiram/2812",
+    "store": "tcglove",
+    "product_id": "white flare booster bundle"
+  },
+  {
+    "name": "Pokémon TCG: Scarlet & Violet - Black Bolt - Booster Bundle - Zekrom (limit 2 sztuk na osobę)",
+    "url": "https://elfiagrota.pl/pokmon-tcg-scarlet-violet-black-bolt-booster-bundle-zekrom-limit-2-sztuk-na-osobe-p-301.html",
+    "store": "elfiagrota",
+    "product_id": "black bolt booster bundle",
+    "target_price": 120.0
+  },
+  {
+    "name": "Pokémon TCG: Scarlet & Violet - White Flare - Booster Bundle - Reshiram (limit 2 sztuk na osobę)",
+    "url": "https://elfiagrota.pl/pokmon-tcg-scarlet-violet-white-flare-booster-bundle-reshiram-limit-2-sztuk-na-osobe-p-302.html",
+    "store": "elfiagrota",
+    "product_id": "white flare booster bundle"
+  },
+  {
+    "name": "Pokémon TCG: Scarlet & Violet 10.5 - White Flare - Booster Bundle - Reshiram",
+    "url": "https://www.xjoy.pl/black-bolt-white-flare-sv105/23870-pokemon-tcg-scarlet-violet-105-white-flare-booster-bundle-reshiram.html",
+    "store": "xjoy",
+    "product_id": "white flare booster bundle"
+  },
+  {
+    "name": "Pokémon TCG: Scarlet & Violet 10.5 - Black Bolt - Booster Bundle - Zekrom",
+    "url": "https://www.xjoy.pl/black-bolt-white-flare-sv105/23871-pokemon-tcg-scarlet-violet-105-black-bolt-booster-bundle-zekrom.html",
+    "store": "xjoy",
+    "product_id": "black bolt booster bundle",
+    "target_price": 120.0
+  },
+  {
+    "name": "PREORDER LIMIT 2SZT/OS Pokémon TCG: Scarlet & Violet - Black Bolt - Booster Bundle",
+    "url": "https://kantodrop.pl/pl/p/PREORDER-LIMIT-2SZTOS-Pokemon-TCG-Scarlet-Violet-Black-Bolt-Booster-Bundle/140",
+    "store": "kantodrop",
+    "product_id": "black bolt booster bundle",
+    "target_price": 120.0
+  },
+  {
+    "name": "PREORDER LIMIT 2SZT/OS Pokémon TCG: Scarlet & Violet - White Flare - Booster Bundle",
+    "url": "https://kantodrop.pl/pl/p/PREORDER-LIMIT-2SZTOS-Pokemon-TCG-Scarlet-Violet-White-Flare-Booster-Bundle/141",
+    "store": "kantodrop",
+    "product_id": "white flare booster bundle"
+  },
+  {
+    "name": "PREORDER LIMIT 1SZT/OS Pokémon TCG: Scarlet & Violet - Black Bolt - Elite Trainer Box",
+    "url": "https://kantodrop.pl/pl/p/PREORDER-LIMIT-1SZTOS-Pokemon-TCG-Scarlet-Violet-Black-Bolt-Elite-Trainer-Box/132",
+    "store": "kantodrop",
+    "product_id": "black bolt elite trainer box",
+    "target_price": 230.0
+  },
+  {
+    "name": "PREORDER LIMIT 1SZT/OS Pokémon TCG: Scarlet & Violet - White Flare - Elite Trainer Box",
+    "url": "https://kantodrop.pl/pl/p/PREORDER-LIMIT-1SZTOS-Pokemon-TCG-Scarlet-Violet-White-Flare-Elite-Trainer-Box/131",
+    "store": "kantodrop",
+    "product_id": "white flare elite trainer box"
+  },
+  {
+    "name": "PREORDER LIMT 6SZT/OS Pokémon TCG: Scarlet & Violet - White Flare & Black Bolt - Unova Victini Illustration Collection",
+    "url": "https://kantodrop.pl/pl/p/PREORDER-LIMT-6SZTOS-Pokemon-TCG-Scarlet-Violet-White-Flare-Black-Bolt-Unova-Victini-Illustration-Collection/135",
+    "store": "kantodrop",
+    "product_id": "victini box",
+    "target_price": 90.0
+  },
+  {
+    "name": "Pokémon TCG: Scarlet & Violet - Black Bolt - Booster Bundle - Zekrom",
+    "url": "https://www.rebel.pl/pokemon/pokemon-tcg-scarlet-violet-black-bolt-booster-bundle-zekrom-2027362.html",
+    "store": "rebel",
+    "product_id": "black bolt booster bundle",
+    "target_price": 120.0
+  },
+  {
+    "name": "Pokémon TCG: Scarlet & Violet - White Flare - Booster Bundle - Reshiram",
+    "url": "https://www.rebel.pl/pokemon/pokemon-tcg-scarlet-violet-white-flare-booster-bundle-reshiram-2027361.html",
+    "store": "rebel",
+    "product_id": "white flare booster bundle"
+  },
+  {
+    "name": "Pokémon TCG: Destined Rivals – Booster Box (36)",
+    "url": "https://strefakart.pl/product/pokemon-tcg-destined-rivals-booster-box-36/",
+    "store": "strefakart",
+    "product_id": "destined rivals booster box",
+    "target_price": 800.0
+  },
+  {
+    "name": "Pokémon TCG: Scarlet & Violet - Destined Rivals - Booster Box (36)",
+    "url": "https://gryplanszowe-basanti.pl/pl/pokemon/6599-pokemon-tcg-scarlet-violet-destined-rivals-booster-box-36.html",
+    "store": "basanti",
+    "product_id": "destined rivals booster box",
+    "target_price": 800.0
+  },
+  {
+    "name": "Pokémon TCG: Destined Rivals – Booster Box",
+    "url": "https://lootquest.pl/produkt/pokemon-tcg-destined-rivals-booster-box/",
+    "store": "lootquest",
+    "product_id": "destined rivals booster box",
+    "target_price": 800.0
+  },
+  {
+    "name": "Pokémon TCG: Scarlet & Violet – Destined Rivals Booster Box",
+    "url": "https://poke-collectibles.shop/produkt/pokemon-tcg-scarlet-violet-destined-rivals-booster-box/",
+    "store": "poke-collectibles",
+    "product_id": "destined rivals booster box",
+    "target_price": 800.0
+  },
+  {
+    "name": "Pokémon TCG: Destined Rivals - Booster Box",
+    "url": "https://pokeshop.pl/pokmon-tcg-destined-rivals-booster-box-p-1701.html",
+    "store": "pokeshop",
+    "product_id": "destined rivals booster box",
+    "target_price": 800.0
+  },
+  {
+    "name": "Pokemon TCG: Scarlet & Violet - Destined Rivals - Booster Box",
+    "url": "https://poketrader.eu/pokemon-tcg-scarlet-violet-destined-rivals-booster-box-p-613.html",
+    "store": "poketrader",
+    "product_id": "destined rivals booster box",
+    "target_price": 800.0
+  },
+  {
+    "name": "Pokemon TCG: Scarlet & Violet SV 10 Destined Rivals Booster Box",
+    "url": "https://www.tcglove.pl/pl/p/Pokemon-TCG-Scarlet-Violet-SV-10-Destined-Rivals-Booster-Box/2681",
+    "store": "tcglove",
+    "product_id": "destined rivals booster box",
+    "target_price": 800.0
+  },
+  {
+    "name": "Pokémon TCG - Destined Rivals - Booster Box",
+    "url": "https://wilczek.poznan.pl/pokemon-tcg-destined-rivals-booster-box.html",
+    "store": "wilczek",
+    "product_id": "destined rivals booster box",
+    "target_price": 800.0
+  },
+  {
+    "name": "Rival Battle Deck - Marnie...",
+    "url": "https://hearts.pub/sklep/Karty-Kolekcjonerskie/124-rival-battle-deck-marnie-pokemon-tcg-196214111851.html",
+    "store": "heartspub",
+    "product_id": "marnie's deck"
+  },
+  {
+    "name": "Booster bundle - 151 -...",
+    "url": "https://hearts.pub/sklep/Karty-Kolekcjonerskie/29-booster-bundle-151-pokemon-tcg-scarlet-and-violet-820650853210.html",
+    "store": "heartspub",
+    "product_id": "151 booster bundle"
+  },
+  {
+    "name": "Elite Trainer Box -...",
+    "url": "https://hearts.pub/sklep/Karty-Kolekcjonerskie/73-elite-trainer-box-reshiram-white-flare-pokemon-tcg-scarlet-violet-196214113619.html",
+    "store": "heartspub",
+    "product_id": "black bolt elite trainer box"
+  },
+  {
+    "name": "Pokémon TCG: Scarlet & Violet - Black Bolt - Binder Collection",
+    "url": "https://3trolle.pl/35920-pokemon-tcg-scarlet-violet-black-bolt-binder-collection.html",
+    "store": "3trolle",
+    "product_id": "black bolt binder"
+  },
+  {
+    "name": "Pokémon TCG: Scarlet & Violet - White Flare & Black Bolt - Unova Poster Collection",
+    "url": "https://3trolle.pl/35916-pokemon-tcg-scarlet-violet-white-flare-black-bolt-unova-poster-collection.html",
+    "store": "3trolle",
+    "product_id": "white flare black bolt poster collection"
+  },
+  {
+    "name": "Pokémon TCG: Scarlet & Violet - White Flare- Binder Collection",
+    "url": "https://3trolle.pl/35915-pokemon-tcg-scarlet-violet-white-flare-binder-collection-.html",
+    "store": "3trolle",
+    "product_id": "white flare binder"
+  },
+  {
+    "name": "Pokémon TCG: Scarlet & Violet - Black Bolt/White Flare - Elite Trainer Box ZESTAW 2X ETB",
+    "url": "https://3trolle.pl/35914-pokemon-tcg-scarlet-violet-black-boltwhite-flare-elite-trainer-box-zestaw-2x-etb.html",
+    "store": "3trolle",
+    "product_id": "black bolt elite trainer box"
+  }
 ]
