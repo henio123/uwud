@@ -1243,5 +1243,97 @@
     "url": "https://3trolle.pl/35914-pokemon-tcg-scarlet-violet-black-boltwhite-flare-elite-trainer-box-zestaw-2x-etb.html",
     "store": "3trolle",
     "product_id": "black bolt elite trainer box"
+  },
+  {
+    "name": "Pokémon TCG: Scarlet & Violet - Team Rocket’s Mewtwo ex Box",
+    "url": "https://aleplanszowki.pl/pokemon-/26750-pokemon-tcg-scarlet-violet-team-rockets-mewtwo-ex-box-196214109384.html",
+    "store": "aleplanszowki",
+    "product_id": "mewtwo box",
+    "target_price": 100.0
+  },
+  {
+    "name": "Pokémon TCG: Scarlet & Violet - Black Bolt & White Flare - Binder Collection - Reshiram",
+    "url": "https://aleplanszowki.pl/pokemon-/27163-pokemon-tcg-scarlet-violet-black-bolt-white-flare-binder-collection-reshiram-196214113893.html",
+    "store": "aleplanszowki",
+    "product_id": "white flare binder"
+  },
+  {
+    "name": "Pokémon TCG Team Rocket’s Mewtwo ex Box",
+    "url": "https://battlestash.pl/produkt/pokemon-tcg-team-rockets-mewtwo-ex-box/",
+    "store": "battlestash",
+    "product_id": "mewtwo box",
+    "target_price": 100.0
+  },
+  {
+    "name": "Pokémon TCG: Team Rocket’s Mewtwo (Giovanni's Mewtwo EX box)",
+    "url": "https://gryplanszowe-basanti.pl/pl/pokemon/6603-pokemon-tcg-team-rockets-mewtwo-giovanni-s-mewtwo-ex-box.html",
+    "store": "basanti",
+    "product_id": "mewtwo box",
+    "target_price": 100.0
+  },
+  {
+    "name": "Team Rocket's Mewtwo ex Box",
+    "url": "https://www.centrum-mtg.com.pl/team-rockets-mewtwo-ex-box",
+    "store": "centrum-mtg",
+    "product_id": "mewtwo box",
+    "target_price": 100.0
+  },
+  {
+    "name": "Pokemon TCG: Team Rocket’s Mewtwo ex Box",
+    "url": "https://strefakart.pl/product/pokemon-tcg-team-rockets-mewtwo-ex-box/",
+    "store": "strefakart",
+    "product_id": "mewtwo box",
+    "target_price": 100.0
+  },
+  {
+    "name": "Pokemon TCG Black Bolt & White Flare Unova Poster Collection",
+    "url": "https://strefamarzen.pl/en/products/pokemon-tcg-black-bolt-white-flare-unova-poster-collection-21853",
+    "store": "strefamarzen",
+    "product_id": "white flare black bolt poster collection"
+  },
+  {
+    "name": "Pokemon TCG Black Bolt - Binder Collection - Zekrom",
+    "url": "https://strefamarzen.pl/en/products/pokemon-tcg-black-bolt-binder-collection-zekrom-21854",
+    "store": "strefamarzen",
+    "product_id": "black bolt binder"
+  },
+  {
+    "name": "Pokemon TCG White Flare - Binder Collection - Reshiram",
+    "url": "https://strefamarzen.pl/en/products/pokemon-tcg-white-flare-binder-collection-reshiram-21855",
+    "store": "strefamarzen",
+    "product_id": "white flare binder"
+  },
+  {
+    "name": "Pokemon TCG Team Rocket's Mewtwo EX Box",
+    "url": "https://strefamtg.pl/talie-i-zestawy-kart-pokemon/109108-pokemon-tcg-team-rocket-s-mewtwo-ex-box-196214109384.html",
+    "store": "strefamtg",
+    "product_id": "mewtwo box",
+    "target_price": 100.0
+  },
+  {
+    "name": "Pokemon TCG: Team Rocket's Mewtwo ex Box",
+    "url": "https://www.tcglove.pl/pl/p/Pokemon-TCG-Team-Rockets-Mewtwo-ex-Box/2801",
+    "store": "tcglove",
+    "product_id": "mewtwo box",
+    "target_price": 100.0
+  },
+  {
+    "name": "Pokémon TCG: Team Rocket’s Mewtwo ex Box",
+    "url": "https://www.rebel.pl/karcianki/pokemon-tcg-team-rocket-s-mewtwo-ex-box-2026678.html",
+    "store": "rebel",
+    "product_id": "mewtwo box",
+    "target_price": 100.0
+  },
+  {
+    "name": "Pokémon TCG: Rival Battle Deck - Marnie",
+    "url": "https://aleplanszowki.pl/pokemon-/27046-pokemon-tcg-rival-battle-deck-marnie.html",
+    "store": "aleplanszowki",
+    "product_id": "marnie's deck"
+  },
+  {
+    "name": "Pokémon TCG: Scarlet & Violet - Destined Rivals - Booster Box (36) (przedsprzedaż)",
+    "url": "https://aleplanszowki.pl/pokemon-/26573-pokemon-tcg-scarlet-violet-destined-rivals-booster-box-36-przedsprzedaz-196214111189.html",
+    "store": "aleplanszowki",
+    "product_id": "destined rivals booster box"
   }
 ]

@@ -109,7 +109,7 @@
     "use_selenium": false
   },
   "poke-collectibles": {
-    "price": "p.price:nth-child(3) > span:nth-child(1) > bdi:nth-child(1)",
+    "price": "div.summary.entry-summary > p.price > span.woocommerce-Price-amount.amount > bdi",
     "title": "article.entry-content.entry.clr > div.entry.has-media.owp-thumbs-layout-horizontal.owp-btn-normal.owp-tabs-layout-horizontal.has-product-nav.product.type-product.post-28954.status-publish.first.instock.product_cat-pokemon.product_cat-preordery.product_tag-elite-trainer-box.product_tag-etb-2.product_tag-karty.product_tag-pokemon-2.product_tag-tcg-2.product_tag-temporal-forces.product_tag-walking-wake.has-post-thumbnail.taxable.shipping-taxable.purchasable.product-type-variable.has-unit-price-observer > div.summary.entry-summary > h2.single-post-title.product_title.entry-title",
     "availability": "form.variations_form.cart.has-gzd-variation-form > div.single_variation_wrap > div.woocommerce-variation-add-to-cart.variations_button.woocommerce-variation-add-to-cart-disabled > button.single_add_to_cart_button.button.alt.disabled.wc-variation-selection-needed",
     "use_selenium": true
@@ -190,12 +190,13 @@
     "price": "div.product-prices.js-product-prices > div.product-price.h5 > div.current-price > span.current-price-value",
     "title": "section > div.row.product-container.js-product-container > div.col-md-6 > h1.h1",
     "availability": "div.product-add-to-cart.js-product-add-to-cart > div.product-quantity.clearfix > div.add > button.btn.btn-primary.add-to-cart",
+    "unavailability": ".product-unavailable",
     "use_selenium": false
   },
-  "3trolle": {
-    "price": "div > div > span.current-price > span.product-price.current-price-value",
-    "title": "div > div.product_header_container.clearfix > h1.h1.page-title > span",
-    "availability": "div.row.extra-small-gutters.product-quantity > div.col.col-12.col-sm-auto.col-add-btn > div.add > button.btn.btn-primary.btn-lg.add-to-cart.processing-add",
-    "use_selenium": true
+  "aleplanszowki": {
+    "price": "div.product-prices > div.product__product-price.product-price > div.current-price > span.current-price-display.price",
+    "title": "div.col-lg-9 > div.row > div.col-lg-6 > h1.h1",
+    "availability": "form > div.product-add-to-cart > div.add > button.btn.btn-primary.add-to-cart.btn-lg.btn-block.btn-add-to-cart.js-add-to-cart",
+    "use_selenium": false
   }
 }

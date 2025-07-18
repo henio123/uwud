@@ -201,39 +201,82 @@ def is_available(url, store, max_retries=3, retry_delay=5):
 
             if use_playwright:
                 with sync_playwright() as p:
-                    browser = p.chromium.launch(headless=True)
-                    page = browser.new_page()
+                    # Memory-optimized browser launch
+                    browser = p.chromium.launch(
+                        headless=True,
+                        args=[
+                            '--no-sandbox',
+                            '--disable-dev-shm-usage',  # Reduces memory usage
+                            '--disable-gpu',
+                            '--disable-features=VizDisplayCompositor',
+                            '--memory-pressure-off',
+                            '--max_old_space_size=512',  # Limit V8 memory
+                            '--disable-background-timer-throttling',
+                            '--disable-backgrounding-occluded-windows',
+                            '--disable-renderer-backgrounding'
+                        ]
+                    )
+                    
+                    # Create context with memory-conscious settings
+                    context = browser.new_context(
+                        viewport={'width': 1280, 'height': 720},  # Smaller viewport
+                        java_script_enabled=True,
+                        ignore_https_errors=True
+                    )
+                    
+                    page = context.new_page()
                     page.set_extra_http_headers({
                         "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115 Safari/537.36"
                     })
+                    
                     try:
-                        page.goto(url, wait_until="networkidle", timeout=15000)
-                    except Exception:
-                        logger.warning(f"networkidle failed, trying domcontentloaded...")
-                        page.goto(url, wait_until="domcontentloaded", timeout=15000)
+                        try:
+                            page.goto(url, wait_until="networkidle", timeout=15000)
+                        except Exception:
+                            logger.warning(f"networkidle failed, trying domcontentloaded...")
+                            page.goto(url, wait_until="domcontentloaded", timeout=15000)
 
-                    page.wait_for_timeout(2000)
-                    html = page.content()
-                    soup = BeautifulSoup(html, "html.parser")
-                    price = get_price(soup, store)
+                        page.wait_for_timeout(2000)
+                        html = page.content()
+                        soup = BeautifulSoup(html, "html.parser")
+                        price = get_price(soup, store)
 
-                    availability_selector = SELECTORS.get(store, {}).get("availability", "")
-                    unavailability_selector = SELECTORS.get(store, {}).get("unavailability", "")
+                        availability_selector = SELECTORS.get(store, {}).get("availability", "")
+                        unavailability_selector = SELECTORS.get(store, {}).get("unavailability", "")
 
-                    def try_selector(selector):
-                        if selector.startswith("xpath="):
-                            xpath = selector.replace("xpath=", "")
-                            el = page.locator(f"xpath={xpath}")
+                        def try_selector(selector):
+                            if selector.startswith("xpath="):
+                                xpath = selector.replace("xpath=", "")
+                                el = page.locator(f"xpath={xpath}")
+                            else:
+                                el = page.locator(selector)
+                            return el.count() > 0 and el.first.is_visible()
+
+                        available = False
+                        if unavailability_selector and try_selector(unavailability_selector):
+                            available = False
+                        elif availability_selector and try_selector(availability_selector):
+                            available = True
                         else:
-                            el = page.locator(selector)
-                        return el.count() > 0 and el.first.is_visible()
+                            available = False
 
-                    if unavailability_selector and try_selector(unavailability_selector):
-                        return False, price
-                    if availability_selector and try_selector(availability_selector):
-                        return True, price
+                    finally:
+                        # Ensure proper cleanup
+                        try:
+                            page.close()
+                        except:
+                            pass
+                        try:
+                            context.close()
+                        except:
+                            pass
+                        try:
+                            browser.close()
+                        except:
+                            pass
 
-                    return False, price
+                    return available, price
+                    
             else:
                 resp = requests.get(url, headers=headers, timeout=10)
                 if resp.status_code == 404:
@@ -456,7 +499,7 @@ def main():
     simple_products = [p for p in PRODUCTS if not SELECTORS.get(p["store"], {}).get("use_selenium")]
     target_price_map = build_target_price_map(PRODUCTS)
 
-    with ThreadPoolExecutor(max_workers=5) as executor:
+    with ThreadPoolExecutor(max_workers=2) as executor:
         while not shutdown_requested:
             try:
                 logger.info("🔍 Checking products...")
