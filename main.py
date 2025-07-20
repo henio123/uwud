@@ -538,7 +538,6 @@ def main():
                 logger.error(f"Unexpected error in main loop: {e}")
                 time.sleep(60)  # Wait before retrying
     
-    logger.info("Price monitor shutting down gracefully...")
 
 if __name__ == "__main__":
     main()

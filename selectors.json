@@ -79,7 +79,7 @@
     "use_selenium": false
   },
   "juniorkurczak": {
-    "price": ".details-product-price__value.ec-price-item.notranslate",
+    "price": ".details-product-price__value",
     "title": ".product-details__product-title.ec-header-h3",
     "availability": ".form-control__button.form-control__button--icon-center",
     "use_selenium": false
@@ -175,13 +175,13 @@
     "use_selenium": true
   },
   "hejmistrzu": {
-    "price": "div.summary.entry-summary > p.price > span.woocommerce-Price-amount.amount > bdi",
+    "price": "p.price:nth-child(2) > span:nth-child(1) > bdi:nth-child(1)",
     "title": "article.entry-content.entry.clr > div.entry.has-media.owp-thumbs-layout-horizontal.owp-btn-normal.owp-tabs-layout-section.has-product-nav.circle-sale.product.type-product.post-2350.status-publish.first.instock.product_cat-gry.product_cat-karciane.product_cat-pokemon.product_cat-black-bolt-white-flare.product_cat-prismatic-evolutions.has-post-thumbnail.taxable.shipping-taxable.purchasable.product-type-simple > div.summary.entry-summary > h2.single-post-title.product_title.entry-title",
     "availability": "div.entry.has-media.owp-thumbs-layout-horizontal.owp-btn-normal.owp-tabs-layout-section.has-product-nav.circle-sale.product.type-product.post-2350.status-publish.first.instock.product_cat-gry.product_cat-karciane.product_cat-pokemon.product_cat-black-bolt-white-flare.product_cat-prismatic-evolutions.has-post-thumbnail.taxable.shipping-taxable.purchasable.product-type-simple > div.summary.entry-summary > form.cart > button.single_add_to_cart_button.button.alt",
     "use_selenium": false
   },
   "plcardworld": {
-    "price": "div.summary.entry-summary.entry-summary-items > p.price > span.woocommerce-Price-amount.amount > bdi",
+    "price": "p.price > span:nth-child(1)",
     "title": "div.product.type-product.post-76652.status-publish.first.instock.product_cat-dystrybucja-pokemon-tcg.product_cat-przedsprzedaz.has-post-thumbnail.taxable.shipping-taxable.purchasable.product-type-simple.ct-default-gallery.ct-ajax-add-to-cart > div.product-entry-wrapper.is-width-constrained > div.summary.entry-summary.entry-summary-items > h1.product_title.entry-title",
     "availability": "div.ct-product-add-to-cart > form.cart > div.ct-cart-actions > button.single_add_to_cart_button.button.alt",
     "use_selenium": false
@@ -197,6 +197,61 @@
     "price": "div.product-prices > div.product__product-price.product-price > div.current-price > span.current-price-display.price",
     "title": "div.col-lg-9 > div.row > div.col-lg-6 > h1.h1",
     "availability": "form > div.product-add-to-cart > div.add > button.btn.btn-primary.add-to-cart.btn-lg.btn-block.btn-add-to-cart.js-add-to-cart",
+    "unavailability": ".js-mailalert-add",
+    "use_selenium": true
+  },
+  "3trolle": {
+    "price": "div > div > span.current-price > span.product-price.current-price-value",
+    "title": "div > div.product_header_container.clearfix > h1.h1.page-title > span",
+    "availability": "div.row.extra-small-gutters.product-quantity > div.col.col-12.col-sm-auto.col-add-btn > div.add > button.btn.btn-primary.btn-lg.add-to-cart.processing-add",
+    "use_selenium": true
+  },
+  "pikashop": {
+    "price": "div.summary.entry-summary > p.price > span.woocommerce-Price-amount.amount > bdi",
+    "title": "main.site-main > div.product.type-product.post-8162.status-publish.first.instock.product_cat-oryginalne-angielskie-karty-pokemon.product_cat-boostery-i-blistry.product_cat-promowane.product_cat-destined-rivals.product_tag-pokemon-eevee-i-eeveelucje.product_tag-pokemon-mewtwo.has-post-thumbnail.taxable.shipping-taxable.purchasable.product-type-simple > div.summary.entry-summary > h1.product_title.entry-title",
+    "availability": "div.product.type-product.post-8162.status-publish.first.instock.product_cat-oryginalne-angielskie-karty-pokemon.product_cat-boostery-i-blistry.product_cat-promowane.product_cat-destined-rivals.product_tag-pokemon-eevee-i-eeveelucje.product_tag-pokemon-mewtwo.has-post-thumbnail.taxable.shipping-taxable.purchasable.product-type-simple > div.summary.entry-summary > form.cart > button.single_add_to_cart_button.button.alt.wp-element-button",
     "use_selenium": false
+  },
+  "magiccafe": {
+    "price": "p.price > span:nth-child(1) > bdi:nth-child(1)",
+    "title": ".product_title",
+    "availability": ".single_add_to_cart_button",
+    "use_selenium": true
+  },
+  "panmysza": {
+    "price": "div.bottomborder.row > div.basket > div.price > em.main-price",
+    "title": "div.centercol.s-grid-9 > div.box.row > div.boxhead > h1.name",
+    "availability": ".delivery",
+    "use_selenium": false
+  },
+  "stajnia-gier": {
+    "price": "span.price:nth-child(1)",
+    "title": "section > div.row.product_container > div.col-md-6.product_right > h1.product_name",
+    "availability": "div.product-add-to-cart > div.product-quantity.clearfix > div.add > button.btn.btn-primary.add-to-cart",
+    "use_selenium": false
+  },
+  "lochyikoty": {
+    "price": "div.CenyProduktu > p > strong > span",
+    "title": "div > div > div.NazwaProducent > h1",
+    "availability": "div > div.PrzyciskIlosc > div.PolePrzyciskiKoszyka > span.DoKoszykaKartaProduktu",
+    "use_selenium": false
+  },
+  "moriongames": {
+    "price": "div.CenyProduktu > p > strong > span",
+    "title": "div > div > div.NazwaProducent > h1",
+    "availability": "div > div.PrzyciskIlosc > div.PolePrzyciskiKoszyka > span.DoKoszykaKartaProduktu",
+    "use_selenium": false
+  },
+  "mepel": {
+    "price": "div.bottomborder > div.basket > div.price > em.main-price",
+    "title": "div.product-main-box > div.maininfo > div.product-meta-col > h1.product-name.desktop",
+    "availability": "form.form-basket > fieldset.addtobasket-container > div.button_wrap > button.addtobasket.btn.btn-red",
+    "use_selenium": false
+  },
+  "japancollectibles": {
+    "price": "div.product-price.mb-3 > div.pb-2.product-price-show > span.price-special > span.core_priceFormat.core_cardPriceSpecial",
+    "title": "div.row > div.col-md-6 > section.product-informations > h1.product-name.sky-f-product-card-name.mb-3",
+    "availability": "div.col-md-6 > section.product-informations > div.product-add-to-cart.d-flex.align-items-center.justify-content-between.mb-3.py-3 > button.btn.btn-primary.d-flex.align-items-center.justify-content-center.align-self-stretch.ng-scope",
+    "use_selenium": true
   }
 }
