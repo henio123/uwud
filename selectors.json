@@ -1,27 +1,14 @@
 {
-  "strefa_tcg": {
-    "price": "div.basket > div.price > div.price__container > em.main-price",
-    "title": "div.centercol.s-grid-9 > div.box.row > div.boxhead > h1.name",
-    "availability": "form.form-basket > fieldset.addtobasket-container > div.button_wrap > button.addtobasket.btn.btn-red",
-    "use_selenium": true
-  },
   "loficards": {
     "price": "div.col-xs-12 > div.product-price > span.price-special > span.core_priceFormat.core_cardPriceSpecial",
     "title": "section.heading.inside.to-left > ul > li > h1.title",
-    "availability": "div.row > div.col-xs-12 > div.product-add-to-cart > button.add-to-cart.ng-scope",
-    "use_selenium": true
+    "availability": "body > main > section.product-card.mod-product-card-1 > div > div > div:nth-child(1) > div > div.col-xxs.col-sm-7.col-md-7 > section > div:nth-child(2) > div > div.product-add-to-cart > div > div > div.col-xs-6 > input"
   },
   "boosterpoint": {
     "price": "p.price > span:nth-child(1) > bdi:nth-child(1)",
     "title": "div.product.type-product.post-6590.status-publish.first.instock.product_cat-pokemon-tcg.product_cat-black-bolt-white-flare.product_cat-scarlet-violet-pokemon-tcg.product_cat-zestawy-kolekcjonerskie.product_tag-nowosc.product_tag-preorder.product_tag-promocja.has-post-thumbnail.sale.sold-individually.taxable.shipping-taxable.purchasable.product-type-simple.thumbs-bottom.ct-default-gallery > div.product-entry-wrapper > div.summary.entry-summary > h1.product_title.entry-title",
     "availability": "div.summary.entry-summary > form.cart > div.ct-cart-actions > button.single_add_to_cart_button.button.alt",
     "use_selenium": false
-  },
-  "empik": {
-    "price": "div > div > div.css-0 > span",
-    "title": "div > div > section > div",
-    "availability": "div > div > div > button",
-    "use_selenium": true
   },
   "swiatkart": {
     "price": "div.mt-xs-2.grid__col.grid__col_xs-12.grid__col_sm-12.grid__col_lg-grow.grid__col_xxl-grow > div.module > product-price.product-prices > h-tab-panel.js__product-price-gross",
@@ -53,18 +40,6 @@
     "title": "div.f-row > div.f-grid-6 > div.bottomborder.row > h1.name",
     "availability": "fieldset.addtobasket-container > div.button_wrap > button.addtobasket.btn.btn-red > span",
     "use_selenium": false
-  },
-  "flamberg": {
-    "price": "div.projector_details__wrapper > div.projector_details__prices.projector_prices > div.projector_prices__price_wrapper > strong.projector_prices__price",
-    "title": "div.col-12 > section.product_name.mb-4 > div.product_name__block.--name.mb-2.d-sm-flex.justify-content-sm-between.mb-sm-3 > h1.product_name__name.m-0",
-    "availability": "form.projector_details.enable > div.projector_details__wrapper > div.projector_details__buy.projector_buy > button.projector_buy__button.btn.--solid.--large",
-    "use_selenium": true
-  },
-  "battlestash": {
-    "price": "div.price-wrapper > p.price.product-page-price > span.woocommerce-Price-amount.amount > bdi",
-    "title": "div.product-main > div.row.content-row.mb-0 > div.product-info.summary.col-fit.col.entry-summary.product-summary.fupi_woo_single_product.fupi_woo_product > h1.product-title.product_title.entry-title",
-    "availability": "div.row.content-row.mb-0 > div.product-info.summary.col-fit.col.entry-summary.product-summary.fupi_woo_single_product.fupi_woo_product > form.cart > button.single_add_to_cart_button.button.alt",
-    "use_selenium": true
   },
   "malysmutnymis": {
     "price": "#maincontent > div.js-product-card > div.m-product-layout-1.js-module.js-product-scope > div > div > section > div.m-product-data-1__prices.js-pricebox.js-product-prices > div > div > div > span.m-product-data-1__price-value.at-product-data-price.js-product-scope-price.js-product-price-value",
@@ -108,29 +83,11 @@
     "availability": "div > div.PrzyciskIlosc > div.PolePrzyciskiKoszyka > span.DoKoszykaKartaProduktu",
     "use_selenium": false
   },
-  "poke-collectibles": {
-    "price": "div.summary.entry-summary > p.price > span.woocommerce-Price-amount.amount > bdi",
-    "title": "article.entry-content.entry.clr > div.entry.has-media.owp-thumbs-layout-horizontal.owp-btn-normal.owp-tabs-layout-horizontal.has-product-nav.product.type-product.post-28954.status-publish.first.instock.product_cat-pokemon.product_cat-preordery.product_tag-elite-trainer-box.product_tag-etb-2.product_tag-karty.product_tag-pokemon-2.product_tag-tcg-2.product_tag-temporal-forces.product_tag-walking-wake.has-post-thumbnail.taxable.shipping-taxable.purchasable.product-type-variable.has-unit-price-observer > div.summary.entry-summary > h2.single-post-title.product_title.entry-title",
-    "availability": "form.variations_form.cart.has-gzd-variation-form > div.single_variation_wrap > div.woocommerce-variation-add-to-cart.variations_button.woocommerce-variation-add-to-cart-disabled > button.single_add_to_cart_button.button.alt.disabled.wc-variation-selection-needed",
-    "use_selenium": true
-  },
   "centrum-mtg": {
     "price": ".m-product-data-1__price-value",
     "title": ".m-product-data-1__title",
     "availability": "#product-card-add-to-card",
     "use_selenium": false
-  },
-  "basanti": {
-    "price": "div.product-prices > div.product-price.h5 > div.current-price > span",
-    "title": "section > div.row > div.col-md-6.col-xs-12 > h1.h1",
-    "availability": "div.product-add-to-cart > div.product-quantity > div.add > button.myButton_pl",
-    "use_selenium": true
-  },
-  "strefamtg": {
-    "price": ".current-price .price span",
-    "title": "section.product-main > div.row.product-main__row > div.col-lg-6.col-md-7.col-xl-5.product-main__block.product-main__block--content > h1.h1.mb-2.product-main__title",
-    "availability": "div.product-add-to-cart > div.product-quantity > div.add.product-quantity__add-to-cart > button.btn.btn-primary.add-to-cart.btn-block.d-flex.align-items-center.justify-content-center.product-quantity__add-to-cart-btn",
-    "use_selenium": true
   },
   "xjoy": {
     "price": "div.content_prices.clearfix > div > p.our_price_display > span.price",
@@ -150,12 +107,6 @@
     "availability": "form.form-basket > fieldset.addtobasket-container > div.button_wrap > button.addtobasket.btn.btn-red",
     "use_selenium": false
   },
-  "dragoneye": {
-    "price": "form > div.modul > div > span.cenaBrutto.wartoscBrutto",
-    "title": "main > div > div.resp > h1",
-    "availability": "form > div.modul > p > input.button",
-    "use_selenium": true
-  },
   "elfiagrota": {
     "price": "div.CenyProduktu > p > strong > span",
     "title": "div > div > div.NazwaProducent > h1",
@@ -167,12 +118,6 @@
     "title": "div.centercol.s-grid-9 > div.box.row > div.boxhead > h1.name",
     "availability": "fieldset.addtobasket-container > div.button_wrap > button.addtobasket.btn.btn-red > span",
     "use_selenium": false
-  },
-  "rebel": {
-    "price": "div.card-body.card-body--background-silver.add-to-cart.overlayable.position-relative > div.d-flex.flex-column.justify-content-center > span.h1.mb-0.col-auto.text-center > span.price",
-    "title": "div.product-page > div.row.product.js-product.product--details.mb-5 > div.col-md-5.d-flex.flex-column > h1.product__title.product__title--big",
-    "availability": "div.card.p-2.p-md-1.p-xl-2.mb-3 > div.card-body.card-body--background-silver.add-to-cart.overlayable.position-relative > div.input-group.cart--quantity.add-to-cart--btn > div.input-group-append.flex-grow-1",
-    "use_selenium": true
   },
   "hejmistrzu": {
     "price": "p.price:nth-child(2) > span:nth-child(1) > bdi:nth-child(1)",
@@ -197,26 +142,14 @@
     "price": "div.product-prices > div.product__product-price.product-price > div.current-price > span.current-price-display.price",
     "title": "div.col-lg-9 > div.row > div.col-lg-6 > h1.h1",
     "availability": "form > div.product-add-to-cart > div.add > button.btn.btn-primary.add-to-cart.btn-lg.btn-block.btn-add-to-cart.js-add-to-cart",
-    "unavailability": ".js-mailalert-add",
-    "use_selenium": true
-  },
-  "3trolle": {
-    "price": "div > div > span.current-price > span.product-price.current-price-value",
-    "title": "div > div.product_header_container.clearfix > h1.h1.page-title > span",
-    "availability": "div.row.extra-small-gutters.product-quantity > div.col.col-12.col-sm-auto.col-add-btn > div.add > button.btn.btn-primary.btn-lg.add-to-cart.processing-add",
-    "use_selenium": true
+    "unavailability": "#add-to-cart-or-refresh > div.product-additional-info > div.tabs > div > input",
+    "use_selenium": false
   },
   "pikashop": {
     "price": "div.summary.entry-summary > p.price > span.woocommerce-Price-amount.amount > bdi",
     "title": "main.site-main > div.product.type-product.post-8162.status-publish.first.instock.product_cat-oryginalne-angielskie-karty-pokemon.product_cat-boostery-i-blistry.product_cat-promowane.product_cat-destined-rivals.product_tag-pokemon-eevee-i-eeveelucje.product_tag-pokemon-mewtwo.has-post-thumbnail.taxable.shipping-taxable.purchasable.product-type-simple > div.summary.entry-summary > h1.product_title.entry-title",
     "availability": "div.product.type-product.post-8162.status-publish.first.instock.product_cat-oryginalne-angielskie-karty-pokemon.product_cat-boostery-i-blistry.product_cat-promowane.product_cat-destined-rivals.product_tag-pokemon-eevee-i-eeveelucje.product_tag-pokemon-mewtwo.has-post-thumbnail.taxable.shipping-taxable.purchasable.product-type-simple > div.summary.entry-summary > form.cart > button.single_add_to_cart_button.button.alt.wp-element-button",
     "use_selenium": false
-  },
-  "magiccafe": {
-    "price": "p.price > span:nth-child(1) > bdi:nth-child(1)",
-    "title": ".product_title",
-    "availability": ".single_add_to_cart_button",
-    "use_selenium": true
   },
   "panmysza": {
     "price": "div.bottomborder.row > div.basket > div.price > em.main-price",
@@ -243,15 +176,15 @@
     "use_selenium": false
   },
   "mepel": {
-    "price": "div.bottomborder > div.basket > div.price > em.main-price",
+    "price": ".main-price",
     "title": "div.product-main-box > div.maininfo > div.product-meta-col > h1.product-name.desktop",
     "availability": "form.form-basket > fieldset.addtobasket-container > div.button_wrap > button.addtobasket.btn.btn-red",
     "use_selenium": false
   },
-  "japancollectibles": {
-    "price": "div.product-price.mb-3 > div.pb-2.product-price-show > span.price-special > span.core_priceFormat.core_cardPriceSpecial",
-    "title": "div.row > div.col-md-6 > section.product-informations > h1.product-name.sky-f-product-card-name.mb-3",
-    "availability": "div.col-md-6 > section.product-informations > div.product-add-to-cart.d-flex.align-items-center.justify-content-between.mb-3.py-3 > button.btn.btn-primary.d-flex.align-items-center.justify-content-center.align-self-stretch.ng-scope",
-    "use_selenium": true
+  "letsgotry": {
+    "price": ".current-price > span:nth-child(1)",
+    "title": "div.row.pp_stick_parent > div.col-lg-6.col-content.pp_stick_it > div.col-content-inside > h1.h1.product-title",
+    "availability": ".product-quantities",
+    "use_selenium": false
   }
 }
