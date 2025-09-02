@@ -321,6 +321,21 @@ def is_available(url, store, max_retries=3, retry_delay=5):
 
     return False, "Brak ceny"
 
+def send_to_discord_rise(message):
+    if not WEBHOOK_URL_RISE:
+        print("⚠️ WEBHOOK_URL nieustawiony")
+        return
+    data = {"content": message}
+    try:
+        response = requests.post(WEBHOOK_URL_RISE, json=data, timeout=10)
+        if response.status_code in [200, 204]:
+            print("✅ Wiadomość wysłana na Discorda.")
+        else:
+            print(f"❌ Błąd Discord: {response.status_code} {response.text}")
+    except Exception as e:
+        print(f"❌ Błąd Discord: {e}")
+
+
 def send_telegram(message):
     if not TELEGRAM_TOKEN or not TELEGRAM_CHAT_ID:
         print("⚠️ TELEGRAM_TOKEN lub TELEGRAM_CHAT_ID nieustawione")
@@ -390,12 +405,11 @@ def notify_price_increase(product, old_price, new_price):
 
     print(f"[{timestamp()}] 🔺 Cena wzrosła dla {product['name']}! {old_price} → {new_price}")
     msg = (
-        f"@everyone 🔺 Cena WZROSŁA dla **{product['name']}**!\n"
+        f" Cena WZROSŁA dla **{product['name']}**!\n"
         f"Stara cena: {old_price}\nNowa cena: {new_price}\n"
         f"{product['url']}"
     )
-    send_to_discord(msg)
-    send_telegram(msg)
+    send_to_discord_rise(msg)
 
 def play_sound():
     try:
@@ -537,4 +551,5 @@ def main():
         print(f"[{timestamp()}] ✅ Zamknięto wszystkie zasoby.")
 
 if __name__ == "__main__":
+
     main()
