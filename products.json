@@ -1986,12 +1986,6 @@
     "product_id": "white flare booster bundle"
   },
   {
-    "name": "Pokémon TCG: Destined Rivals - Checklane - Zarude",
-    "url": "https://pokeshop.pl/pokmon-tcg-destined-rivals-checklane-zarude-p-1705.html",
-    "store": "pokeshop",
-    "product_id": "destined rivals elite trainer box"
-  },
-  {
     "name": "Pokémon TCG: Destined Rivals - Sleeved Booster",
     "url": "https://pokeshop.pl/pokmon-tcg-destined-rivals-sleeved-booster-p-1707.html",
     "store": "pokeshop",
@@ -3082,5 +3076,420 @@
     "url": "http://vanaheim.pl/pl/tin/45903-pokmon-tcg-unova-mini-tin-volcarona-emolga.html",
     "store": "vanaheim",
     "product_id": "unova mini tin"
+  },
+  {
+    "name": "Pokémon TCG: Mega Evolution – Elite Trainer Box – Lucario – Przedsprzedaż",
+    "url": "https://hejmistrzu.pl/produkt/pokemon-tcg-mega-evolution-elite-trainer-box-lucario-przedsprzedaz/",
+    "store": "panmysza",
+    "product_id": "mega evolution elite trainer box lucario"
+  },
+  {
+    "name": "Pokémon TCG: Mega Evolution – Elite Trainer Box – Gardevoir – Przedsprzedaż",
+    "url": "https://hejmistrzu.pl/produkt/pokemon-tcg-mega-evolution-elite-trainer-box-gardevoir/",
+    "store": "panmysza",
+    "product_id": "mega evolution elite trainer box gardevoir"
+  },
+  {
+    "name": "Pokémon TCG: Mega Evolution – Elite Trainer Box – Lucario – Przedsprzedaż",
+    "url": "https://hejmistrzu.pl/produkt/pokemon-tcg-mega-evolution-elite-trainer-box-lucario-przedsprzedaz/",
+    "store": "hej mistrzu",
+    "product_id": "mega evolution elite trainer box lucario"
+  },
+  {
+    "name": "Pokémon TCG: Mega Evolution – Elite Trainer Box – Gardevoir – Przedsprzedaż",
+    "url": "https://hejmistrzu.pl/produkt/pokemon-tcg-mega-evolution-elite-trainer-box-gardevoir/",
+    "store": "hej mistrzu",
+    "product_id": "mega evolution elite trainer box gardevoir"
+  },
+  {
+    "name": "White Flare Tech Sticker - Gothitelle",
+    "url": "https://juniorkurczak.pl/products/white-flare-tech-sticker-gothitelle",
+    "store": "juniorkurczak",
+    "product_id": "white flare tech sticker gothitelle"
+  },
+  {
+    "name": "Black Bolt Tech Sticker - Reuniclus",
+    "url": "https://juniorkurczak.pl/products/black-bolt-tech-sticker-reuniclus",
+    "store": "juniorkurczak",
+    "product_id": "black bolt tech sticker reuniclus"
+  },
+  {
+    "name": "White Flare - Tech Sticker - Gothitelle",
+    "url": "https://www.pokegemcollector.pl/pl/p/White-Flare-Tech-Sticker-Gothitelle/3187",
+    "store": "pokegemcollector",
+    "product_id": "white flare tech sticker gothitelle"
+  },
+  {
+    "name": "White Flare & Black Bolt - Unova Victini Illustration Collection",
+    "url": "https://www.pokegemcollector.pl/pl/p/White-Flare-Black-Bolt-Unova-Victini-Illustration-Collection/3186",
+    "store": "pokegemcollector",
+    "product_id": "victini box"
+  },
+  {
+    "name": "Pokémon TCG: Scarlet & Violet – White Flare – Booster Bundle – Reshiram – Przedsprzedaż",
+    "url": "https://hejmistrzu.pl/produkt/pokemon-tcg-scarlet-violet-white-flare-booster-bundle-reshiram-przedsprzedaz/",
+    "store": "hej mistrzu",
+    "product_id": "white flare booster bundle"
+  },
+  {
+    "name": "Pokémon TCG: Scarlet & Violet – White Flare – Elite Trainer Box – Reshiram – Przedsprzedaż",
+    "url": "https://hejmistrzu.pl/produkt/pokemon-tcg-scarlet-violet-black-bolt-elite-trainer-box-zekrom-przedsprzedaz/",
+    "store": "hej mistrzu",
+    "product_id": "white flare elite trainer box"
+  },
+  {
+    "name": "Pokémon TCG: Scarlet & Violet – White Flare & Black Bolt – Unova Victini Illustration Collection – Przedsprzedaż",
+    "url": "https://hejmistrzu.pl/produkt/pokemon-tcg-scarlet-violet-white-flare-black-bolt-unova-victini-illustration-collection-przedsprzedaz/",
+    "store": "hej mistrzu",
+    "product_id": "victini box"
+  },
+  {
+    "name": "Pokémon TCG: Scarlet & Violet – White Flare – Binder Collection – Reshiram",
+    "url": "https://hejmistrzu.pl/produkt/pokemon-tcg-scarlet-violet-white-flare-binder-collection-reshiram-przedsprzedaz/",
+    "store": "hej mistrzu",
+    "product_id": "white flare binder"
+  },
+  {
+    "name": "Pokémon TCG: Scarlet & Violet – White Flare & Black Bolt – Unova Poster Collection",
+    "url": "https://hejmistrzu.pl/produkt/pokemon-tcg-scarlet-violet-white-flare-black-bolt-unova-poster-collection/",
+    "store": "hej mistrzu",
+    "product_id": "white flare black bolt poster collection"
+  },
+  {
+    "name": "Pokémon TCG: Unova Mini Tin",
+    "url": "https://hejmistrzu.pl/produkt/pokemon-tcg-unova-mini-tin-przedsprzedaz/",
+    "store": "hej mistrzu",
+    "product_id": "unova mini tin"
+  },
+  {
+    "name": "Pokémon TCG: Mega Evolution - Elite Trainer Box - Gardevoir",
+    "url": "https://www.xjoy.pl/zestawy-kolekcjonerskie/24281-pokemon-tcg-mega-evolution-elite-trainer-box-gardevoir.html?search_query=mega+evolution&results=95",
+    "store": "xjoy",
+    "product_id": "mega evolution elite trainer box gardevoir"
+  },
+  {
+    "name": "Pokémon TCG: Mega Evolution - Elite Trainer Box - Lucario",
+    "url": "https://www.xjoy.pl/zestawy-kolekcjonerskie/24282-pokemon-tcg-mega-evolution-elite-trainer-box-lucario.html?search_query=mega+evolution&results=95",
+    "store": "xjoy",
+    "product_id": "mega evolution elite trainer box lucario"
+  },
+  {
+    "name": "PREORDER LIMIT 1SZT/OS Pokémon TCG: Mega Evolution - Elite Trainer Box Gardevoir",
+    "url": "/pl/p/PREORDER-LIMIT-1SZTOS-Pokemon-TCG-Mega-Evolution-Elite-Trainer-Box-Gardevoir/151",
+    "store": "kantodrop",
+    "product_id": "mega evolution elite trainer box gardevoir"
+  },
+  {
+    "name": "PREORDER LIMIT 1SZT/OS Pokémon TCG: Mega Evolution - Elite Trainer Box Lucario",
+    "url": "/pl/p/PREORDER-LIMIT-1SZTOS-Pokemon-TCG-Mega-Evolution-Elite-Trainer-Box-Lucario/152",
+    "store": "kantodrop",
+    "product_id": "mega evolution elite trainer box lucario"
+  },
+  {
+    "name": "Pokémon TCG White Flare Booster Bundle – Reshiram",
+    "url": "https://battlestash.pl/produkt/pokemon-tcg-white-flare-booster-bundle-reshiram/",
+    "store": "battlestash",
+    "product_id": "white flare booster bundle"
+  },
+  {
+    "name": "Pokémon TCG: White Flare – Booster Bundle – Reshiram",
+    "url": "https://boosterpoint.pl/produkt/pokemon-tcg-white-flare-booster-bundle-reshiram/",
+    "store": "boosterpoint",
+    "product_id": "white flare booster bundle"
+  },
+  {
+    "name": "Pokémon TCG: Black Bolt – Booster Bundle – Zekrom",
+    "url": "https://boosterpoint.pl/produkt/pokemon-tcg-black-bolt-booster-bundle-zekrom/",
+    "store": "boosterpoint",
+    "product_id": "black bolt booster bundle"
+  },
+  {
+    "name": "Pokémon TCG: Scarlet & Violet 10,5 - White Flare - Booster Bundle - Reshiram",
+    "url": "https://flamberg.com.pl/pl/products/pokemon-tcg-scarlet-violet-10-5-white-flare-booster-bundle-reshiram-199097",
+    "store": "flamberg",
+    "product_id": "white flare booster bundle"
+  },
+  {
+    "name": "Pokémon TCG: White Flare - Booster Bundle",
+    "url": "https://pokeshop.pl/pokmon-tcg-white-flare-booster-bundle-p-1809.html",
+    "store": "pokeshop",
+    "product_id": "white flare booster bundle"
+  },
+  {
+    "name": "Pokémon TCG: Unova Mini Tin - Bundle (8)",
+    "url": "https://zgrani.pl/pl/products/pokemon/puszki/pokemon-tcg-unova-mini-tin-bundle-8-25064?query_id=1",
+    "store": "zgrani",
+    "product_id": "unova mini tin"
+  },
+  {
+    "name": "Pokémon TCG: Scarlet & Violet - White Flare - Booster Bundle - Reshiram",
+    "url": "https://aleplanszowki.pl/pokemon-/27494-pokemon-tcg-scarlet-violet-white-flare-booster-bundle-reshiram-196214113343.html",
+    "store": "aleplanszowki",
+    "product_id": "white flare booster bundle"
+  },
+  {
+    "name": "Pokémon TCG White Flare Booster Bundle Reshiram",
+    "url": "https://pokecollect.pl/pl/p/Pokemon-TCG-White-Flare-Booster-Bundle-Reshiram/683",
+    "store": "pokecollect",
+    "product_id": "white flare booster bundle"
+  },
+  {
+    "name": "Pokémon TCG Black Bolt Booster Bundle Zekrom",
+    "url": "https://pokecollect.pl/pl/p/Pokemon-TCG-Black-Bolt-Booster-Bundle-Zekrom/684",
+    "store": "pokecollect",
+    "product_id": "black bolt booster bundle"
+  },
+  {
+    "name": "Scarlet & Violet White Flare Booster Bundle - Reshiram",
+    "url": "https://panmysza.pl/pl/p/Scarlet-Violet-White-Flare-Booster-Bundle-Reshiram/8583",
+    "store": "panmysza",
+    "product_id": "white flare booster bundle"
+  },
+  {
+    "name": "Scarlet & Violet Black Bolt Booster Bundle - Zekrom",
+    "url": "https://panmysza.pl/pl/p/Scarlet-Violet-Black-Bolt-Booster-Bundle-Zekrom/8582",
+    "store": "panmysza",
+    "product_id": "black bolt booster bundle"
+  },
+  {
+    "name": "Pokemon TCG: White Flare Tech Sticker - Gothitelle",
+    "url": "https://stajnia-gier.pl/pokemon-tcg/14161-pokemon-tcg-white-flare-tech-sticker-gothitelle.html",
+    "store": "stajnia-gier",
+    "product_id": "white flare tech sticker gothitelle"
+  },
+  {
+    "name": "Pokemon TCG: Black Bolt Tech Sticker - Reuniclus",
+    "url": "https://stajnia-gier.pl/pokemon-tcg/14162-pokemon-tcg-white-flare-tech-sticker-reuniclus.html",
+    "store": "stajnia-gier",
+    "product_id": "black bolt tech sticker reuniclus"
+  },
+  {
+    "name": "POKEMON SV 10,5  WHITE FLARE Booster  Bundle Reshiram",
+    "url": "https://www.moriongames.pl/pokemon-sv-10-5-white-flare-booster-bundle-reshiram-p-13851.html",
+    "store": "moriongames",
+    "product_id": "white flare booster bundle"
+  },
+  {
+    "name": "Pokémon TCG: Scarlet & Violet - White Flare - Booster Bundle - Reshiram",
+    "url": "https://mepel.pl/pokemon-tcg-scarlet-and-violet-white-flare-booster-bundle-reshiram",
+    "store": "mepel",
+    "product_id": "white flare booster bundle"
+  },
+  {
+    "name": "Scarlet & Violet - White Flare - Booster Bundle - Reshiram",
+    "url": "https://www.pokegemcollector.pl/pl/p/Scarlet-Violet-White-Flare-Booster-Bundle-Reshiram/3298",
+    "store": "pokegemcollector",
+    "product_id": "white flare booster bundle"
+  },
+  {
+    "name": "Scarlet & Violet - White Flare - Elite Trainer Box - Reshiram",
+    "url": "https://www.pokegemcollector.pl/pl/p/Scarlet-Violet-White-Flare-Elite-Trainer-Box-Reshiram/3214",
+    "store": "pokegemcollector",
+    "product_id": "white flare elite trainer box"
+  },
+  {
+    "name": "Scarlet & Violet - Black Bolt - Booster Bundle - Zekrom",
+    "url": "https://www.pokegemcollector.pl/pl/p/Scarlet-Violet-Black-Bolt-Booster-Bundle-Zekrom-/3297",
+    "store": "pokegemcollector",
+    "product_id": "black bolt booster bundle"
+  },
+  {
+    "name": "Pokémon TCG Black Bolt Booster Bundle – Zekrom",
+    "url": "https://battlestash.pl/produkt/pokemon-tcg-black-bolt-booster-bundle-zekrom/",
+    "store": "battlestash",
+    "product_id": "black bolt booster bundle"
+  },
+  {
+    "name": "Pokémon TCG: Black Bolt – Elite Trainer Box",
+    "url": "https://battlestash.pl/produkt/pokemon-tcg-black-bolt-elite-trainer-box/",
+    "store": "battlestash",
+    "product_id": "black bolt elite trainer box"
+  },
+  {
+    "name": "Pokémon TCG: Scarlet & Violet 10,5 - Black Bolt - Booster Bundle - Zekrom",
+    "url": "https://flamberg.com.pl/pl/products/pokemon-tcg-scarlet-violet-10-5-black-bolt-booster-bundle-zekrom-199096",
+    "store": "flamberg",
+    "product_id": "black bolt booster bundle"
+  },
+  {
+    "name": "Pokémon TCG: Black Bolt - Booster Bundle",
+    "url": "https://pokeshop.pl/pokmon-tcg-black-bolt-booster-bundle-p-1808.html",
+    "store": "pokeshop",
+    "product_id": "black bolt booster bundle"
+  },
+  {
+    "name": "POKEMON SV 10,5  BLACK BOLT Booster  Bundle Zekrom",
+    "url": "https://www.moriongames.pl/pokemon-sv-10-5-black-bolt-booster-bundle-zekrom-p-13852.html",
+    "store": "moriongames",
+    "product_id": "black bolt booster bundle"
+  },
+  {
+    "name": "Pokémon TCG: Scarlet & Violet - Black Bolt - Booster Bundle - Zekrom",
+    "url": "https://mepel.pl/pokemon-tcg-scarlet-and-violet-black-bolt-booster-bundle-zekrom",
+    "store": "mepel",
+    "product_id": "black bolt booster bundle"
+  },
+  {
+    "name": "Black Bolt - Tech Sticker - Reuniclus",
+    "url": "https://www.pokegemcollector.pl/pl/p/Black-Bolt-Tech-Sticker-Reuniclus/3188",
+    "store": "pokegemcollector",
+    "product_id": "black bolt tech sticker reuniclus"
+  },
+  {
+    "name": "Pokémon TCG: Scarlet & Violet – Black Bolt – Booster Bundle – Zekrom",
+    "url": "https://hejmistrzu.pl/produkt/pokemon-tcg-scarlet-violet-black-bolt-booster-bundle-zekrom-przedsprzedaz/",
+    "store": "hej mistrzu",
+    "product_id": "black bolt booster bundle"
+  },
+  {
+    "name": "Pokémon TCG: Scarlet & Violet – Black Bolt – Elite Trainer Box – Zekrom – Przedsprzedaż",
+    "url": "https://hejmistrzu.pl/produkt/pokemon-tcg-scarlet-violet-black-bolt-elite-trainer-box-zekrom-przedsprzedaz-2/",
+    "store": "hej mistrzu",
+    "product_id": "black bolt elite trainer box"
+  },
+  {
+    "name": "Pokémon TCG: Scarlet & Violet – Black Bolt – Binder Collection – Zekrom",
+    "url": "https://hejmistrzu.pl/produkt/pokemon-tcg-scarlet-violet-black-bolt-binder-collection-zekrom-przedsprzedaz/",
+    "store": "hej mistrzu",
+    "product_id": "black bolt binder"
+  },
+  {
+    "name": "prismatic evolutions bundle",
+    "url": "https://juniorkurczak.pl/products/prismatic-evolutions-booster-bundle",
+    "store": "juniorkurczak",
+    "target_price": 220.0,
+    "product_id": "prismatic evolutions booster bundle"
+  },
+  {
+    "name": "Pokémon TCG: SV - Prismatic Evolutions - Booster Bundle",
+    "url": "https://gryplanszowe-basanti.pl/pl/pokemon/6593-pokemon-tcg-sv-prismatic-evolutions-booster-bundle.html",
+    "store": "basanti",
+    "product_id": "prismatic evolutions booster bundle"
+  },
+  {
+    "name": "Pokémon TCG: Prismatic Evolutions – Booster Bundle",
+    "url": "https://boosterpoint.pl/produkt/pokemon-tcg-prismatic-evolutions-booster-bundle/",
+    "store": "boosterpoint",
+    "product_id": "prismatic evolutions booster bundle"
+  },
+  {
+    "name": "Pokémon TCG: Scarlet & Violet - Prismatic Evolutions - Booster Bundle",
+    "url": "https://dragoneye.pl/pokémon-tcg-scarlet-violet-prismatic-evolutions-booster-bundle-p-9423.html",
+    "store": "dragoneye",
+    "product_id": "prismatic evolutions booster bundle"
+  },
+  {
+    "name": "Pokémon TCG: Prismatic Evolutions – Booster Bundle",
+    "url": "https://lootquest.pl/produkt/pokemon-tcg-prismatic-evolutions-booster-bundle/",
+    "store": "lootquest",
+    "product_id": "prismatic evolutions booster bundle"
+  },
+  {
+    "name": "Pokémon TCG: Scarlet & Violet - Prismatic Evolutions - Booster Bundle",
+    "url": "https://mycards.pl/pl/p/Pokemon-TCG-Scarlet-Violet-Prismatic-Evolutions-Booster-Bundle/201",
+    "store": "mycards",
+    "product_id": "prismatic evolutions booster bundle"
+  },
+  {
+    "name": "Pokémon TCG: Scarlet & Violet – Prismatic Evolutions Booster",
+    "url": "https://poke-collectibles.shop/produkt/pokemon-tcg-scarlet-violet-prismatic-evolutions-booster/",
+    "store": "poke-collectibles",
+    "product_id": "prismatic evolutions booster bundle"
+  },
+  {
+    "name": "Pokemon TCG: Prismatic Evolutions - Booster Bundle DISPLAY (10)",
+    "url": "https://pokeshop.pl/pokemon-tcg-prismatic-evolutions-booster-bundle-display-10-p-1689.html",
+    "store": "pokeshop",
+    "product_id": "prismatic evolutions booster bundle"
+  },
+  {
+    "name": "Pokemon TCG: Prismatic Evolutions – Booster Bundle",
+    "url": "https://strefakart.pl/product/prismatic-evolutions-booster-bundle/",
+    "store": "strefakart",
+    "product_id": "prismatic evolutions booster bundle"
+  },
+  {
+    "name": "Pokemon TCG Prismatic Evolutions Booster Bundle",
+    "url": "https://strefamarzen.pl/en/products/pokemon-tcg-prismatic-evolutions-booster-bundle-21374?query_id=1",
+    "store": "strefamarzen",
+    "product_id": "prismatic evolutions booster bundle"
+  },
+  {
+    "name": "Pokemon SV8,5 TCG Prismatic Evolutions Booster Bundle",
+    "url": "https://strefamtg.pl/boostery-i-boxy-pokemon/107755-pokemon-sv85-tcg-prismatic-evolutions-booster-bundle-196214106130.html",
+    "store": "strefamtg",
+    "product_id": "prismatic evolutions booster bundle"
+  },
+  {
+    "name": "Pokemon TCG: Scarlet & Violet - Prismatic Evolutions - Booster Bundle",
+    "url": "https://www.tcglove.pl/pl/p/Pokemon-TCG-Scarlet-Violet-Prismatic-Evolutions-Booster-Bundle/1050",
+    "store": "tcglove",
+    "product_id": "prismatic evolutions booster bundle"
+  },
+  {
+    "name": "Pokémon - Prismatic Evolutions - Booster Bundle",
+    "url": "https://wilczek.poznan.pl/pokemon-prismatic-evolutions-booster-bundle.html",
+    "store": "wilczek",
+    "product_id": "prismatic evolutions booster bundle"
+  },
+  {
+    "name": "Pokemon TCG: Prismatic Evolutions - Booster Bundle",
+    "url": "https://elfiagrota.pl/pokemon-tcg-prismatic-evolutions-booster-bundle-p-267.html",
+    "store": "elfiagrota",
+    "product_id": "prismatic evolutions booster bundle"
+  },
+  {
+    "name": "Pokémon TCG: Scarlet & Violet - Prismatic Evolutions - Booster Bundle",
+    "url": "https://www.rebel.pl/karcianki/pokemon-tcg-scarlet-violet-prismatic-evolutions-booster-bundle-2025978.html",
+    "store": "rebel",
+    "product_id": "prismatic evolutions booster bundle"
+  },
+  {
+    "name": "Pokémon TCG: Scarlet & Violet - Prismatic Evolutions - Booster Bundle",
+    "url": "https://3trolle.pl/34952-pokemon-tcg-scarlet-violet-prismatic-evolutions-booster-bundle.html",
+    "store": "3trolle",
+    "product_id": "prismatic evolutions booster bundle"
+  },
+  {
+    "name": "Pokémon TCG: Scarlet & Violet – Prismatic Evolutions – Booster Bundle",
+    "url": "https://plcardworld.pl/p/pokemon-tcg-scarlet-violet-prismatic-evolutions-booster-bundle/",
+    "store": "plcardworld",
+    "product_id": "prismatic evolutions booster bundle"
+  },
+  {
+    "name": "Scarlet & Violet - Prismatic Evolutions - Booster Bundle",
+    "url": "https://panmysza.pl/pl/p/Scarlet-Violet-Prismatic-Evolutions-Booster-Bundle/7741",
+    "store": "panmysza",
+    "product_id": "prismatic evolutions booster bundle"
+  },
+  {
+    "name": "Pokemon TCG: Prismatic Evolutions - Booster Bundle",
+    "url": "https://www.lochyikoty.pl/pokemon-tcg-prismatic-evolutions-booster-bundle-p-144.html",
+    "store": "lochyikoty",
+    "product_id": "prismatic evolutions booster bundle"
+  },
+  {
+    "name": "Pokémon TCG: Prismatic Evolutions: Booster Bundle",
+    "url": "https://mepel.pl/pokemon-tcg-prismatic-evolutions-booster-bundle",
+    "store": "mepel",
+    "product_id": "prismatic evolutions booster bundle"
+  },
+  {
+    "name": "Pokémon TCG Booster Bundle - Prismatic Evolutions",
+    "url": "https://japancollectibles.shop/Pokemon-TCG-Booster-Bundle-Prismatic-Evolutions-p4421",
+    "store": "japancollectibles",
+    "product_id": "prismatic evolutions booster bundle"
+  },
+  {
+    "name": "Pokémon TCG: Scarlet & Violet - Prismatic Evolutions - Booster Bundle",
+    "url": "https://letsgotry.pl/prismatic-evolutions/4748-pokemon-tcg-scarlet-violet-prismatic-evolutions-booster-bundle.html",
+    "store": "letsgotry",
+    "product_id": "prismatic evolutions booster bundle"
+  },
+  {
+    "name": "Pokémon TCG: Scarlet & Violet – Prismatic Evolutions – Booster Bundle",
+    "url": "https://hejmistrzu.pl/produkt/pokemon-tcg-scarlet-violet-prismatic-evolutions-booster-bundle/",
+    "store": "hej mistrzu",
+    "product_id": "prismatic evolutions booster bundle"
   }
 ]
