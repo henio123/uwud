@@ -20,6 +20,7 @@ TWILIO_AUTH_TOKEN = os.getenv("TWILIO_AUTH_TOKEN")
 TWILIO_FROM_NUMBER = os.getenv("TWILIO_FROM_NUMBER")
 TO_PHONE_NUMBER = os.getenv("TO_PHONE_NUMBER")
 WEBHOOK_URL = os.getenv("WEBHOOK_URL")
+WEBHOOK_URL_RISE = os.getenv("WEBHOOK_URL_RISE")
 TELEGRAM_TOKEN = os.getenv("TELEGRAM_TOKEN")
 TELEGRAM_CHAT_ID = os.getenv("TELEGRAM_CHAT_ID")
 
@@ -553,3 +554,4 @@ def main():
 if __name__ == "__main__":
 
     main()
+
