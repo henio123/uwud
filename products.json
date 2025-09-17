@@ -2241,61 +2241,71 @@
     "name": "Pokémon TCG: Scarlet & Violet - Black Bolt - Tech Sticker - Reuniclus (Planowana premiera: 1 sierpnia 2025)",
     "url": "https://www.centrum-mtg.com.pl/pokemon-tcg-scarlet-violet-black-bolt-tech-sticker-reuniclus-planowana-premiera-1-sierpnia-2025",
     "store": "centrum-mtg",
-    "product_id": "black bolt tech sticker reuniclus"
+    "product_id": "black bolt tech sticker reuniclus",
+    "target_price": 70.0
   },
   {
     "name": "Pokémon TCG: Scarlet & Violet - White Flare - Tech Sticker - Gothitelle (Planowana premiera: 1 sierpnia 2025)",
     "url": "https://www.centrum-mtg.com.pl/pokemon-tcg-scarlet-violet-white-flare-tech-sticker-gothitelle-planowana-premiera-1-sierpnia-2025",
     "store": "centrum-mtg",
-    "product_id": "white flare tech sticker gothitelle"
+    "product_id": "white flare tech sticker gothitelle",
+    "target_price": 70.0
   },
   {
     "name": "Pokemon TCG: Black Bolt – Tech Sticker – Reuniclus",
     "url": "https://strefakart.pl/product/pokemon-tcg-black-bolt-tech-sticker-reuniclus/",
     "store": "strefakart",
-    "product_id": "black bolt tech sticker reuniclus"
+    "product_id": "black bolt tech sticker reuniclus",
+    "target_price": 70.0
   },
   {
     "name": "Pokemon TCG: White Flare – Tech Sticker – Gothitelle",
     "url": "https://strefakart.pl/product/pokemon-tcg-white-flare-tech-sticker-gothitelle/",
     "store": "strefakart",
-    "product_id": "white flare tech sticker gothitelle"
+    "product_id": "white flare tech sticker gothitelle",
+    "target_price": 70.0
   },
   {
     "name": "PreOrder Pokemon TCG: Scarlet & Violet - Black Bolt - Tech Sticker - Reuniclus",
     "url": "https://www.tcglove.pl/pl/p/PreOrder-Pokemon-TCG-Scarlet-Violet-Black-Bolt-Tech-Sticker-Reuniclus/2844",
     "store": "tcglove",
-    "product_id": "black bolt tech sticker reuniclus"
+    "product_id": "black bolt tech sticker reuniclus",
+    "target_price": 70.0
   },
   {
     "name": "PreOrder Pokemon TCG: Scarlet & Violet - White Flare  - Tech Sticker - Gothitelle",
     "url": "https://www.tcglove.pl/pl/p/PreOrder-Pokemon-TCG-Scarlet-Violet-White-Flare-Tech-Sticker-Gothitelle/2843",
     "store": "tcglove",
-    "product_id": "white flare tech sticker gothitelle"
+    "product_id": "white flare tech sticker gothitelle",
+    "target_price": 70.0
   },
   {
     "name": "Pokémon TCG: Scarlet & Violet - Black Bolt - Tech Sticker - Reuniclus",
     "url": "https://www.rebel.pl/pokemon/pokemon-tcg-scarlet-violet-black-bolt-tech-sticker-reuniclus-2027117.html",
     "store": "rebel",
-    "product_id": "black bolt tech sticker reuniclus"
+    "product_id": "black bolt tech sticker reuniclus",
+    "target_price": 70.0
   },
   {
     "name": "Pokémon TCG: Scarlet & Violet - White Flare - Tech Sticker - Gothitelle",
     "url": "https://www.rebel.pl/pokemon/pokemon-tcg-scarlet-violet-white-flare-tech-sticker-gothitelle-2027116.html",
     "store": "rebel",
-    "product_id": "white flare tech sticker gothitelle"
+    "product_id": "white flare tech sticker gothitelle",
+    "target_price": 70.0
   },
   {
     "name": "Pokémon TCG: Scarlet & Violet – Black Bolt – Tech Sticker – Reuniclus",
     "url": "https://boosterpoint.pl/produkt/pokemon-tcg-scarlet-violet-black-bolt-tech-sticker-reuniclus/",
     "store": "boosterpoint",
-    "product_id": "black bolt tech sticker reuniclus"
+    "product_id": "black bolt tech sticker reuniclus",
+    "target_price": 70.0
   },
   {
     "name": "Pokémon TCG: Scarlet & Violet – White Flare – Tech Sticker – Gothitelle",
     "url": "https://boosterpoint.pl/produkt/pokemon-tcg-scarlet-violet-white-flare-tech-sticker-gothitelle/",
     "store": "boosterpoint",
-    "product_id": "white flare tech sticker gothitelle"
+    "product_id": "white flare tech sticker gothitelle",
+    "target_price": 70.0
   },
   {
     "name": "Pokémon TCG: Scarlet & Violet – White Flare & Black Bolt – Unova Victini Illustration Collection",
@@ -2307,49 +2317,57 @@
     "name": "Pokémon TCG: Scarlet & Violet - White Flare - Tech Sticker - Gothitelle",
     "url": "https://dragoneye.pl/pokémon-tcg-scarlet-violet-white-flare-tech-sticker-gothitelle-p-10411.html",
     "store": "dragoneye",
-    "product_id": "white flare tech sticker gothitelle"
+    "product_id": "white flare tech sticker gothitelle",
+    "target_price": 70.0
   },
   {
     "name": "Pokémon TCG: Scarlet & Violet - Black Bolt - Tech Sticker - Reuniclus",
     "url": "https://dragoneye.pl/pokémon-tcg-scarlet-violet-black-bolt-tech-sticker-reuniclus-p-10410.html",
     "store": "dragoneye",
-    "product_id": "black bolt tech sticker reuniclus"
+    "product_id": "black bolt tech sticker reuniclus",
+    "target_price": 70.0
   },
   {
     "name": "Pokémon TCG: Scarlet & Violet - Black Bolt - Tech Sticker - Reuniclus",
     "url": "https://strefa-tcg.pl/pl/p/Pokemon-TCG-Scarlet-Violet-Black-Bolt-Tech-Sticker-Reuniclus/1312",
     "store": "strefa_tcg",
-    "product_id": "black bolt tech sticker reuniclus"
+    "product_id": "black bolt tech sticker reuniclus",
+    "target_price": 70.0
   },
   {
     "name": "Pokémon TCG: Scarlet & Violet - White Flare - Tech Sticker - Gothitelle",
     "url": "https://strefa-tcg.pl/pl/p/Pokemon-TCG-Scarlet-Violet-White-Flare-Tech-Sticker-Gothitelle/1313",
     "store": "strefa_tcg",
-    "product_id": "white flare tech sticker gothitelle"
+    "product_id": "white flare tech sticker gothitelle",
+    "target_price": 70.0
   },
   {
     "name": "Pokémon TCG: Scarlet & Violet -  Black Bolt - Tech Sticker - Reuniclus",
     "url": "https://mycards.pl/pl/p/Pokemon-TCG-Scarlet-Violet-Black-Bolt-Tech-Sticker-Reuniclus/250",
     "store": "mycards",
-    "product_id": "black bolt tech sticker reuniclus"
+    "product_id": "black bolt tech sticker reuniclus",
+    "target_price": 70.0
   },
   {
     "name": "Pokémon TCG: Scarlet & Violet -  White Flare - Tech Sticker - Gothitelle",
     "url": "https://mycards.pl/pl/p/Pokemon-TCG-Scarlet-Violet-White-Flare-Tech-Sticker-Gothitelle/249",
     "store": "mycards",
-    "product_id": "white flare tech sticker gothitelle"
+    "product_id": "white flare tech sticker gothitelle",
+    "target_price": 70.0
   },
   {
     "name": "Pokémon TCG: Scarlet & Violet 10.5 - Black Bolt - Tech Sticker - Reuniclus",
     "url": "https://www.xjoy.pl/zestawy-kolekcjonerskie/23940-pokemon-tcg-scarlet-violet-105-black-bolt-tech-sticker-reuniclus.html",
     "store": "xjoy",
-    "product_id": "black bolt tech sticker reuniclus"
+    "product_id": "black bolt tech sticker reuniclus",
+    "target_price": 70.0
   },
   {
     "name": "Pokémon TCG: Scarlet & Violet 10.5 -  White Flare - Tech Sticker - Gothitelle",
     "url": "https://www.xjoy.pl/zestawy-kolekcjonerskie/23942-pokemon-tcg-scarlet-violet-105-white-flare-tech-sticker-gothitelle.html",
     "store": "xjoy",
-    "product_id": "white flare tech sticker gothitelle"
+    "product_id": "white flare tech sticker gothitelle",
+    "target_price": 70.0
   },
   {
     "name": "Pokémon TCG: Scarlet & Violet 10.5 - Black Bolt & White Flare Victini Illustration Collection",
@@ -2361,13 +2379,15 @@
     "name": "PREORDER LIMIT 6SZT/OS Pokémon TCG: Scarlet & Violet - Black Bolt - Tech Sticker - Reuniclus",
     "url": "https://kantodrop.pl/pl/p/PREORDER-LIMIT-6SZTOS-Pokemon-TCG-Scarlet-Violet-Black-Bolt-Tech-Sticker-Reuniclus/148",
     "store": "kantodrop",
-    "product_id": "black bolt tech sticker reuniclus"
+    "product_id": "black bolt tech sticker reuniclus",
+    "target_price": 70.0
   },
   {
     "name": "PREORDER LIMIT 6SZT/OS Pokémon TCG: Scarlet & Violet - White Flare - Tech Sticker - Gothitelle",
     "url": "https://kantodrop.pl/pl/p/PREORDER-LIMIT-6SZTOS-Pokemon-TCG-Scarlet-Violet-White-Flare-Tech-Sticker-Gothitelle/147",
     "store": "kantodrop",
-    "product_id": "white flare tech sticker gothitelle"
+    "product_id": "white flare tech sticker gothitelle",
+    "target_price": 70.0
   },
   {
     "name": "Pokémon TCG: S&V Black Bolt/White Flare - zestaw Booster Bundle - Reshiram+Zekrom",
@@ -2379,13 +2399,15 @@
     "name": "Pokémon TCG: Scarlet & Violet - Black Bolt - Tech Sticker - Reuniclus",
     "url": "https://aleplanszowki.pl/pokemon-/27346-pokemon-tcg-scarlet-violet-black-bolt-tech-sticker-reuniclus-196214119109.html",
     "store": "aleplanszowki",
-    "product_id": "black bolt tech sticker reuniclus"
+    "product_id": "black bolt tech sticker reuniclus",
+    "target_price": 70.0
   },
   {
     "name": "Pokémon TCG: Scarlet & Violet - White Flare - Tech Sticker - Gothitelle",
     "url": "https://aleplanszowki.pl/pokemon-/27345-pokemon-tcg-scarlet-violet-white-flare-tech-sticker-gothitelle-196214118638.html",
     "store": "aleplanszowki",
-    "product_id": "white flare tech sticker gothitelle"
+    "product_id": "white flare tech sticker gothitelle",
+    "target_price": 70.0
   },
   {
     "name": "Pokémon TCG: Scarlet & Violet - White Flare & Black Bolt - Unova Victini Illustration Collectio",
@@ -2409,25 +2431,29 @@
     "name": "Pokémon TCG: Scarlet & Violet – Black Bolt – Tech Sticker – Reuniclus",
     "url": "https://plcardworld.pl/p/pokemon-tcg-scarlet-violet-black-bolt-tech-sticker-reuniclus/",
     "store": "plcardworld",
-    "product_id": "black bolt tech sticker reuniclus"
+    "product_id": "black bolt tech sticker reuniclus",
+    "target_price": 70.0
   },
   {
     "name": "Pokémon TCG: Scarlet & Violet – White Flare – Tech Sticker – Gothitelle",
     "url": "https://plcardworld.pl/p/pokemon-tcg-scarlet-violet-white-flare-tech-sticker-gothitelle/",
     "store": "plcardworld",
-    "product_id": "white flare tech sticker gothitelle"
+    "product_id": "white flare tech sticker gothitelle",
+    "target_price": 70.0
   },
   {
     "name": "Pokémon TCG Black Bolt Tech Sticker Reuniclus",
     "url": "https://pokecollect.pl/pl/p/Pokemon-TCG-Black-Bolt-Tech-Sticker-Reuniclus/691",
     "store": "pokecollect",
-    "product_id": "black bolt tech sticker reuniclus"
+    "product_id": "black bolt tech sticker reuniclus",
+    "target_price": 70.0
   },
   {
     "name": "Pokémon TCG White Flare Tech Sticker Gothitelle",
     "url": "https://pokecollect.pl/pl/p/Pokemon-TCG-White-Flare-Tech-Sticker-Gothitelle/690",
     "store": "pokecollect",
-    "product_id": "white flare tech sticker gothitelle"
+    "product_id": "white flare tech sticker gothitelle",
+    "target_price": 70.0
   },
   {
     "name": "Pokémon TCG White Flare & Black Bolt Unova Victini Illustration Collection",
@@ -2631,7 +2657,8 @@
     "name": "Pokemon TCG Scarlet & Violet Black Bolt - Tech Sticker - Reuniclus",
     "url": "https://strefamarzen.pl/en/products/pokemon-tcg-scarlet-violet-black-bolt-tech-sticker-reuniclus-21960?query_id=1",
     "store": "strefamarzen",
-    "product_id": "black bolt tech sticker reuniclus"
+    "product_id": "black bolt tech sticker reuniclus",
+    "target_price": 70.0
   },
   {
     "name": "Pokémon TCG: Black Bolt & White Flare – Unova Mini Tin Display (8 wzorów)",
@@ -2817,7 +2844,8 @@
     "name": "Pokemon TCG Scarlet & Violet White Flare Tech Sticker Gothitelle",
     "url": "https://strefamarzen.pl/en/products/pokemon-tcg-scarlet-violet-white-flare-tech-sticker-gothitelle-21959?query_id=1",
     "store": "strefamarzen",
-    "product_id": "white flare tech sticker gothitelle"
+    "product_id": "white flare tech sticker gothitelle",
+    "target_price": 70.0
   },
   {
     "name": "Pokémon TCG: Scarlet & Violet - White Flare - Binder Collection",
@@ -3015,13 +3043,15 @@
     "name": "Pokémon TCG: White Flare - Tech Sticker - Gothitelle",
     "url": "https://pokeshop.pl/pokmon-tcg-white-flare-tech-sticker-gothitelle-p-1801.html",
     "store": "pokeshop",
-    "product_id": "white flare tech sticker gothitelle"
+    "product_id": "white flare tech sticker gothitelle",
+    "target_price": 70.0
   },
   {
     "name": "Pokémon TCG: Black Bolt - Tech Sticker - Reuniclus",
     "url": "https://pokeshop.pl/pokmon-tcg-black-bolt-tech-sticker-reuniclus-p-1802.html",
     "store": "pokeshop",
-    "product_id": "black bolt tech sticker reuniclus"
+    "product_id": "black bolt tech sticker reuniclus",
+    "target_price": 70.0
   },
   {
     "name": "Pokemon TCG Scarlet&Violet Black Bolt & White Flare Victini Illustration Collection",
@@ -3105,19 +3135,22 @@
     "name": "White Flare Tech Sticker - Gothitelle",
     "url": "https://juniorkurczak.pl/products/white-flare-tech-sticker-gothitelle",
     "store": "juniorkurczak",
-    "product_id": "white flare tech sticker gothitelle"
+    "product_id": "white flare tech sticker gothitelle",
+    "target_price": 70.0
   },
   {
     "name": "Black Bolt Tech Sticker - Reuniclus",
     "url": "https://juniorkurczak.pl/products/black-bolt-tech-sticker-reuniclus",
     "store": "juniorkurczak",
-    "product_id": "black bolt tech sticker reuniclus"
+    "product_id": "black bolt tech sticker reuniclus",
+    "target_price": 70.0
   },
   {
     "name": "White Flare - Tech Sticker - Gothitelle",
     "url": "https://www.pokegemcollector.pl/pl/p/White-Flare-Tech-Sticker-Gothitelle/3187",
     "store": "pokegemcollector",
-    "product_id": "white flare tech sticker gothitelle"
+    "product_id": "white flare tech sticker gothitelle",
+    "target_price": 70.0
   },
   {
     "name": "White Flare & Black Bolt - Unova Victini Illustration Collection",
@@ -3255,13 +3288,15 @@
     "name": "Pokemon TCG: White Flare Tech Sticker - Gothitelle",
     "url": "https://stajnia-gier.pl/pokemon-tcg/14161-pokemon-tcg-white-flare-tech-sticker-gothitelle.html",
     "store": "stajnia-gier",
-    "product_id": "white flare tech sticker gothitelle"
+    "product_id": "white flare tech sticker gothitelle",
+    "target_price": 70.0
   },
   {
     "name": "Pokemon TCG: Black Bolt Tech Sticker - Reuniclus",
     "url": "https://stajnia-gier.pl/pokemon-tcg/14162-pokemon-tcg-white-flare-tech-sticker-reuniclus.html",
     "store": "stajnia-gier",
-    "product_id": "black bolt tech sticker reuniclus"
+    "product_id": "black bolt tech sticker reuniclus",
+    "target_price": 70.0
   },
   {
     "name": "POKEMON SV 10,5  WHITE FLARE Booster  Bundle Reshiram",
@@ -3333,7 +3368,8 @@
     "name": "Black Bolt - Tech Sticker - Reuniclus",
     "url": "https://www.pokegemcollector.pl/pl/p/Black-Bolt-Tech-Sticker-Reuniclus/3188",
     "store": "pokegemcollector",
-    "product_id": "black bolt tech sticker reuniclus"
+    "product_id": "black bolt tech sticker reuniclus",
+    "target_price": 70.0
   },
   {
     "name": "Pokémon TCG: Scarlet & Violet – Black Bolt – Booster Bundle – Zekrom",
@@ -3491,5 +3527,41 @@
     "url": "https://hejmistrzu.pl/produkt/pokemon-tcg-scarlet-violet-prismatic-evolutions-booster-bundle/",
     "store": "hej mistrzu",
     "product_id": "prismatic evolutions booster bundle"
+  },
+  {
+    "name": "Pokémon TCG: Mega Evolution - Elite Trainer Box - Gardevoir",
+    "url": "https://www.pokegemcollector.pl/pl/p/Pokemon-TCG-Mega-Evolution-Elite-Trainer-Box-Gardevoir/3333",
+    "store": "pokegemcollector",
+    "product_id": "mega evolution elite trainer box gardevoir"
+  },
+  {
+    "name": "Pokémon TCG: Mega Evolution - Elite Trainer Box - Lucario",
+    "url": "https://www.pokegemcollector.pl/pl/p/Pokemon-TCG-Mega-Evolution-Elite-Trainer-Box-Lucario/3334",
+    "store": "pokegemcollector",
+    "product_id": "mega evolution elite trainer box lucario"
+  },
+  {
+    "name": "Pokémon TCG - Destined Rivals - Team Rocket's Mewtwo ex Box",
+    "url": "https://wilczek.poznan.pl/pokemon-tcg-destined-rivals-team-rocket-s-mewtwo-ex-box.html",
+    "store": "wilczek",
+    "product_id": "mewtwo box"
+  },
+  {
+    "name": "Pokémon TCG: Destined Rivals - Elite Trainer Box",
+    "url": "https://elfiagrota.pl/pokmon-tcg-destined-rivals-elite-trainer-box-p-326.html",
+    "store": "elfiagrota",
+    "product_id": "destined rivals elite trainer box"
+  },
+  {
+    "name": "Pokémon TCG: Scarlet & Violet - Destined Rivals - Booster",
+    "url": "https://www.pokegemcollector.pl/pl/p/Pokemon-TCG-Scarlet-Violet-Destined-Rivals-Booster/2996",
+    "store": "pokegemcollector",
+    "product_id": "destined rivals booster"
+  },
+  {
+    "name": "Pokémon TCG: Scarlet & Violet – Destined Rivals – Elite Trainer Box",
+    "url": "https://hejmistrzu.pl/produkt/pokemon-tcg-scarlet-violet-destined-rivals-elite-trainer-box/",
+    "store": "hej mistrzu",
+    "product_id": "destined rivals elite trainer box"
   }
 ]
