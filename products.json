@@ -3563,5 +3563,54 @@
     "url": "https://hejmistrzu.pl/produkt/pokemon-tcg-scarlet-violet-destined-rivals-elite-trainer-box/",
     "store": "hej mistrzu",
     "product_id": "destined rivals elite trainer box"
+  },
+   {
+    "name": "Pokemon TCG: Mega Evolution – Elite Trainer Box – Lucario",
+    "url": "https://juniorkurczak.pl/products/mega-evolution-elite-trainer-box-lucario",
+    "store": "juniorkurczak",
+    "product_id": "mega evolution elite trainer box lucario",
+    "target_price": 230.0
+  },
+   {
+    "name": "Pokemon Mega Evolution 01 Elite Trainer  Box GARDEVOIR",
+    "url": "https://juniorkurczak.pl/products/mega-evolution-elite-trainer-box-gardevoir",
+    "store": "juniorkurczak",
+    "product_id": "mega evolution elite trainer box gardevoir",
+    "target_price": 230.0
+  },
+   {
+    "name": "mega evolution 3-pack",
+    "url": "https://juniorkurczak.pl/products/mega-evolution-3-pack-blister",
+    "store": "juniorkurczak",
+    "product_id": "mega evolution 3-pack",
+    "target_price": 65.0
+  },
+   {
+    "name": "mega evolution blister",
+    "url": "https://juniorkurczak.pl/products/mega-evolution-checklane-blister",
+    "store": "juniorkurczak",
+    "product_id": "mega evolution blister",
+    "target_price": 26.0
+  },
+   {
+    "name": "mega evolution latias box",
+    "url": "https://juniorkurczak.pl/products/mega-latias-ex-box",
+    "store": "juniorkurczak",
+    "product_id": "mega evolution latias",
+    "target_price": 100.0
+  },
+   {
+    "name": "mega evolution tin",
+    "url": "https://juniorkurczak.pl/products/mega-heroes-mini-tin",
+    "store": "juniorkurczak",
+    "product_id": "mega evolution tin",
+    "target_price": 50.0
+  },
+   {
+    "name": "mega evolution blister",
+    "url": "https://juniorkurczak.pl/products/mega-evolution-premium-checklane-blister",
+    "store": "juniorkurczak",
+    "product_id": "mega evolution blister",
+    "target_price": 30.0
   }
 ]
